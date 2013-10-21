@@ -1,0 +1,20 @@
+Linea	Copertura	Nome Ascendente	Nome Discendente	Tipo Linea	Bacino
+p001	Urbana	San Genesio-Montemaino-San Martino-Cava Manara	Cava Manara-San Martino-Rione Scala-Montemaino-San Genesio	tpl	Pavia
+p002	Urbana	Garibaldi-Policlinico-Garibaldi	NULL	tpl	Pavia
+p003	Urbana	Montebolone-Cascina Pelizza-Colombarone	Colombarone-Cascina Pelizza-Montebolone	tpl	Pavia
+p004	Urbana	Vallone Maesta-Sora-Torre d'Isola	Torre d'Isola-Sora-Vallone Maesta	tpl	Pavia
+p005	Urbana	Stazione FS-Gramegna-Policlinico-Stazione FS	NULL	tpl	Pavia
+p006	Urbana	Cassinetto-Cascina Pelizza	Cascina Pelizza-Cassinetto	tpl	Pavia
+p007	Urbana	Cura Carpignano-Prado-Vallone-Stazione-Maugeri Mondino	Maugeri Mondino-Stazione-Vallone-Prado-Cura Carpignano	tpl	Pavia
+p009	Urbana	Linea interna Policlinico San Matteo	NULL	tpl	Pavia
+p010	Urbana	Ca della Terra-Collegio Borromeo	Collegio Borromeo-Ca della Terra	tpl	Pavia
+p021	Urbana	Pavia Stazione FS-Mezzana Corti	Mezzana Corti-Pavia Stazione FS	tpl	Pavia
+p022	Urbana	Pavia Stazione FS-Travaco-Boschi	Boschi-Travaco-Pavia Stazione FS	tpl	Pavia
+p023	Urbana	San Genesio-Pavia Stazione FS	Pavia Stazione FS-San Genesio	tpl	Pavia
+p024	Urbana	Pavia Montebolone-Linarolo-Pavia Montebolone	NULL	tpl	Pavia
+p025	Urbana	Pavia Montebolone-Valle Salimbene-Pavia Montebolone	NULL	tpl	Pavia
+pA	Urbana	Stazione FS-Ist Bordoni	Ist Bordoni-Stazione FS	tpl	Pavia
+pB	Urbana	Stazione FS-Ist Volta	Ist Volta-Stazione FS	tpl	Pavia
+pC	Urbana	Stazione FS-Ist IPSIA	Ist IPSIA-Stazione FS	tpl	Pavia
+pD	Urbana	Stazione FS-Ist Clerici	Ist Clerici-Stazione FS	tpl	Pavia
+pE	Urbana	Stazione FS-Ist Cossa (Montegrappa)	Ist Cossa (Montegrappa)-Stazione FS	tpl	Pavia
