@@ -1,0 +1,960 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+    "type": "Feature",
+    "id": "way/249551806",
+    "properties": {
+        "timestamp": "2013-12-02T18:38:23Z",
+        "version": "7",
+        "changeset": "19238420",
+        "user": "simone",
+        "uid": "137",
+        "highway": "service",
+        "id": "way/249551806"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1478127,
+                45.1979144
+            ],
+            [
+                9.1475814,
+                45.1978381
+            ],
+            [
+                9.1471278,
+                45.1977255
+            ],
+            [
+                9.1468281,
+                45.1976408
+            ],
+            [
+                9.1467476,
+                45.1976238
+            ],
+            [
+                9.1467155,
+                45.1976143
+            ],
+            [
+                9.146525,
+                45.1975633
+            ],
+            [
+                9.1469868,
+                45.1966125
+            ],
+            [
+                9.1470089,
+                45.1965663
+            ],
+            [
+                9.1472168,
+                45.1961325
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/249596244",
+    "properties": {
+        "timestamp": "2013-12-02T18:38:23Z",
+        "version": "1",
+        "changeset": "19238420",
+        "user": "simone",
+        "uid": "137",
+        "highway": "service",
+        "id": "way/249596244"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1482917,
+                45.1969075
+            ],
+            [
+                9.1480598,
+                45.1974193
+            ],
+            [
+                9.1480435,
+                45.1974553
+            ],
+            [
+                9.1478127,
+                45.1979144
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/249596242",
+    "properties": {
+        "timestamp": "2013-12-02T18:38:23Z",
+        "version": "1",
+        "changeset": "19238420",
+        "user": "simone",
+        "uid": "137",
+        "highway": "service",
+        "id": "way/249596242"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1472168,
+                45.1961325
+            ],
+            [
+                9.1483517,
+                45.1964169
+            ],
+            [
+                9.1482858,
+                45.1965688
+            ],
+            [
+                9.1483144,
+                45.1966374
+            ],
+            [
+                9.1483534,
+                45.1966856
+            ],
+            [
+                9.1484218,
+                45.19672
+            ],
+            [
+                9.1484837,
+                45.1967636
+            ],
+            [
+                9.1484913,
+                45.1968137
+            ],
+            [
+                9.1484614,
+                45.196857
+            ],
+            [
+                9.148406,
+                45.19688
+            ],
+            [
+                9.1483376,
+                45.1968974
+            ],
+            [
+                9.1482917,
+                45.1969075
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/238888166",
+    "properties": {
+        "timestamp": "2013-12-15T18:16:52Z",
+        "version": "23",
+        "changeset": "19469205",
+        "user": "kiro68",
+        "uid": "1817336",
+        "highway": "service",
+        "id": "way/238888166"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1463645,
+                45.2028254
+            ],
+            [
+                9.1467297,
+                45.2023864
+            ],
+            [
+                9.1467007,
+                45.2023279
+            ],
+            [
+                9.1464921,
+                45.2022877
+            ],
+            [
+                9.1460678,
+                45.2021839
+            ],
+            [
+                9.1459827,
+                45.2021437
+            ],
+            [
+                9.1459575,
+                45.2020916
+            ],
+            [
+                9.1459769,
+                45.2019959
+            ],
+            [
+                9.1460699,
+                45.2017596
+            ],
+            [
+                9.1461838,
+                45.2014861
+            ],
+            [
+                9.146191,
+                45.2013671
+            ],
+            [
+                9.1461419,
+                45.2012833
+            ],
+            [
+                9.1460187,
+                45.2012225
+            ],
+            [
+                9.1460846,
+                45.201171
+            ],
+            [
+                9.1461585,
+                45.201129
+            ],
+            [
+                9.1462528,
+                45.2011182
+            ],
+            [
+                9.1463466,
+                45.2010993
+            ],
+            [
+                9.1463827,
+                45.201064
+            ],
+            [
+                9.1463637,
+                45.2010128
+            ],
+            [
+                9.1460948,
+                45.2008568
+            ],
+            [
+                9.146053,
+                45.2008164
+            ],
+            [
+                9.1460482,
+                45.2007571
+            ],
+            [
+                9.14634,
+                45.2001915
+            ],
+            [
+                9.1464475,
+                45.2001691
+            ],
+            [
+                9.1468449,
+                45.2002318
+            ],
+            [
+                9.1469041,
+                45.2001682
+            ],
+            [
+                9.1471704,
+                45.1998266
+            ],
+            [
+                9.147509,
+                45.1998646
+            ],
+            [
+                9.14771,
+                45.1998804
+            ],
+            [
+                9.1478604,
+                45.1998566
+            ],
+            [
+                9.1480003,
+                45.1997931
+            ],
+            [
+                9.1480971,
+                45.1997015
+            ],
+            [
+                9.1482843,
+                45.1994335
+            ],
+            [
+                9.1483219,
+                45.1992361
+            ],
+            [
+                9.1485765,
+                45.1986576
+            ],
+            [
+                9.148579,
+                45.1986537
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/238888176",
+    "properties": {
+        "timestamp": "2013-12-02T14:51:57Z",
+        "version": "2",
+        "changeset": "19234563",
+        "user": "simone",
+        "uid": "137",
+        "highway": "service",
+        "service": "parking_aisle",
+        "id": "way/238888176"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1463645,
+                45.2028254
+            ],
+            [
+                9.1464975,
+                45.2028913
+            ],
+            [
+                9.1467091,
+                45.2029962
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/249551810",
+    "properties": {
+        "timestamp": "2013-12-02T18:30:26Z",
+        "version": "7",
+        "changeset": "19238262",
+        "user": "simone",
+        "uid": "137",
+        "highway": "service",
+        "id": "way/249551810"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.148579,
+                45.1986537
+            ],
+            [
+                9.1486118,
+                45.1985575
+            ],
+            [
+                9.148602,
+                45.1985273
+            ],
+            [
+                9.1485795,
+                45.1984996
+            ],
+            [
+                9.1485423,
+                45.1984768
+            ],
+            [
+                9.1484873,
+                45.1984593
+            ],
+            [
+                9.1482572,
+                45.1984673
+            ],
+            [
+                9.1480603,
+                45.1984387
+            ],
+            [
+                9.1478898,
+                45.1983974
+            ],
+            [
+                9.1478088,
+                45.198359
+            ],
+            [
+                9.1476388,
+                45.1982921
+            ],
+            [
+                9.1478127,
+                45.1979144
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/249553980",
+    "properties": {
+        "timestamp": "2013-12-02T14:51:56Z",
+        "version": "1",
+        "changeset": "19234563",
+        "user": "simone",
+        "uid": "137",
+        "highway": "service",
+        "service": "parking_aisle",
+        "id": "way/249553980"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1467091,
+                45.2029962
+            ],
+            [
+                9.1468213,
+                45.2030518
+            ],
+            [
+                9.146832,
+                45.2031115
+            ],
+            [
+                9.1467461,
+                45.2031568
+            ],
+            [
+                9.1459564,
+                45.2034072
+            ],
+            [
+                9.1457518,
+                45.2033054
+            ],
+            [
+                9.1455542,
+                45.2032071
+            ],
+            [
+                9.1453443,
+                45.2031027
+            ],
+            [
+                9.1451397,
+                45.2030009
+            ],
+            [
+                9.1449442,
+                45.2029036
+            ],
+            [
+                9.1447443,
+                45.2028042
+            ],
+            [
+                9.1445376,
+                45.2027014
+            ],
+            [
+                9.1443269,
+                45.2025965
+            ],
+            [
+                9.1441166,
+                45.2024919
+            ],
+            [
+                9.145066,
+                45.202182
+            ],
+            [
+                9.1452659,
+                45.2022811
+            ],
+            [
+                9.1454748,
+                45.2023846
+            ],
+            [
+                9.1456827,
+                45.2024876
+            ],
+            [
+                9.1458959,
+                45.2025932
+            ],
+            [
+                9.1460892,
+                45.202689
+            ],
+            [
+                9.1463023,
+                45.2027946
+            ],
+            [
+                9.1463645,
+                45.2028254
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/249551338",
+    "properties": {
+        "timestamp": "2013-12-02T18:26:37Z",
+        "version": "3",
+        "changeset": "19238178",
+        "user": "simone",
+        "uid": "137",
+        "highway": "service",
+        "id": "way/249551338"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1478127,
+                45.1979144
+            ],
+            [
+                9.1486627,
+                45.1981152
+            ],
+            [
+                9.1490114,
+                45.1981984
+            ],
+            [
+                9.1488707,
+                45.1985328
+            ],
+            [
+                9.1487947,
+                45.1985166
+            ],
+            [
+                9.14872,
+                45.1985332
+            ],
+            [
+                9.1486486,
+                45.1985623
+            ],
+            [
+                9.148579,
+                45.1986537
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/2480565668",
+    "properties": {
+        "timestamp": "2013-10-02T20:57:38Z",
+        "version": "2",
+        "changeset": "18151410",
+        "user": "simone",
+        "uid": "137",
+        "asset_ref": "pv0432",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "INGRESSO PRINCIPALE",
+        "network": "lineservizi",
+        "operator": "Line S.p.A.",
+        "public_transport": "stop_position",
+        "ref": "pv0432",
+        "url": "http://lineservizi.it",
+        "id": "node/2480565668"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1482144,
+            45.1964781
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/2480565669",
+    "properties": {
+        "timestamp": "2013-10-02T20:57:38Z",
+        "version": "2",
+        "changeset": "18151410",
+        "user": "simone",
+        "uid": "137",
+        "asset_ref": "pv0433",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "OCULISTICA Ostetricia",
+        "network": "lineservizi",
+        "operator": "Line S.p.A.",
+        "public_transport": "stop_position",
+        "ref": "pv0433",
+        "url": "http://lineservizi.it",
+        "id": "node/2480565669"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1472614,
+            45.1961973
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/2480565663",
+    "properties": {
+        "timestamp": "2013-10-02T20:57:38Z",
+        "version": "2",
+        "changeset": "18151410",
+        "user": "simone",
+        "uid": "137",
+        "asset_ref": "pv0430",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "CENTRO TRASFUSIONALE",
+        "network": "lineservizi",
+        "operator": "Line S.p.A.",
+        "public_transport": "stop_position",
+        "ref": "pv0430",
+        "url": "http://lineservizi.it",
+        "id": "node/2480565663"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1485384,
+            45.1985169
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/2480565664",
+    "properties": {
+        "timestamp": "2013-10-02T20:57:38Z",
+        "version": "2",
+        "changeset": "18151410",
+        "user": "simone",
+        "uid": "137",
+        "asset_ref": "pv0435",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "CHIRURGIA",
+        "network": "lineservizi",
+        "operator": "Line S.p.A.",
+        "public_transport": "stop_position",
+        "ref": "pv0435",
+        "url": "http://lineservizi.it",
+        "id": "node/2480565664"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1480474,
+            45.1979891
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/2480565666",
+    "properties": {
+        "timestamp": "2013-10-02T20:57:38Z",
+        "version": "2",
+        "changeset": "18151410",
+        "user": "simone",
+        "uid": "137",
+        "asset_ref": "pv0431",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "CHIRURGIE Medicine",
+        "network": "lineservizi",
+        "operator": "Line S.p.A.",
+        "public_transport": "stop_position",
+        "ref": "pv0431",
+        "url": "http://lineservizi.it",
+        "id": "node/2480565666"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1477687,
+            45.1983033
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/2480565671",
+    "properties": {
+        "timestamp": "2013-10-09T10:57:02Z",
+        "version": "3",
+        "changeset": "18262283",
+        "user": "GiovanniMiceli",
+        "uid": "1762843",
+        "asset_ref": "pv0427",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "PARCHEGGIO NORD Campeggi",
+        "network": "lineservizi",
+        "operator": "Line S.p.A.",
+        "public_transport": "stop_position",
+        "shelter": "yes",
+        "source": "survey",
+        "url": "http://lineservizi.it",
+        "id": "node/2480565671"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.145969,
+            45.2022033
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/2480565673",
+    "properties": {
+        "timestamp": "2013-12-02T14:51:57Z",
+        "version": "3",
+        "changeset": "19234563",
+        "user": "simone",
+        "uid": "137",
+        "asset_ref": "pv0426",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "PARCHEGGIO NORD",
+        "network": "lineservizi",
+        "operator": "Line S.p.A.",
+        "public_transport": "stop_position",
+        "ref": "pv0426",
+        "shelter": "yes",
+        "source": "survey",
+        "url": "http://lineservizi.it",
+        "id": "node/2480565673"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.146678,
+            45.2028754
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/2480565675",
+    "properties": {
+        "timestamp": "2013-10-02T20:57:38Z",
+        "version": "2",
+        "changeset": "18151410",
+        "user": "simone",
+        "uid": "137",
+        "asset_ref": "pv0429",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "PEDIATRIA Forlanini",
+        "network": "lineservizi",
+        "operator": "Line S.p.A.",
+        "public_transport": "stop_position",
+        "ref": "pv0429",
+        "shelter": "yes",
+        "source": "survey",
+        "url": "http://lineservizi.it",
+        "id": "node/2480565675"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1472803,
+            45.1997705
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/2480565677",
+    "properties": {
+        "timestamp": "2013-10-02T20:57:39Z",
+        "version": "2",
+        "changeset": "18151410",
+        "user": "simone",
+        "uid": "137",
+        "asset_ref": "pv0434",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "REPARTI SPECIALI Radiologia",
+        "network": "lineservizi",
+        "operator": "Line S.p.A.",
+        "public_transport": "stop_position",
+        "ref": "pv0434",
+        "url": "http://lineservizi.it",
+        "id": "node/2480565677"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1465488,
+            45.1975984
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/2480565678",
+    "properties": {
+        "timestamp": "2013-10-02T20:57:39Z",
+        "version": "2",
+        "changeset": "18151410",
+        "user": "simone",
+        "uid": "137",
+        "asset_ref": "pv0428",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "TRAUMATOLOGIA Infettivi",
+        "network": "lineservizi",
+        "operator": "Line S.p.A.",
+        "public_transport": "stop_position",
+        "ref": "pv0428",
+        "shelter": "yes",
+        "source": "survey",
+        "url": "http://lineservizi.it",
+        "id": "node/2480565678"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1461136,
+            45.2005378
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/2480587002",
+    "properties": {
+        "timestamp": "2013-10-02T20:57:37Z",
+        "version": "1",
+        "changeset": "18151410",
+        "user": "simone",
+        "uid": "137",
+        "asset_ref": "pv0437",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "PEDIATRIA Forlanini",
+        "network": "lineservizi",
+        "operator": "Line S.p.A.",
+        "public_transport": "stop_position",
+        "ref": "pv0437",
+        "shelter": "yes",
+        "source": "survey",
+        "url": "http://lineservizi.it",
+        "id": "node/2480587002"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1476644,
+            45.199908
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/2480587003",
+    "properties": {
+        "timestamp": "2013-10-02T20:57:37Z",
+        "version": "1",
+        "changeset": "18151410",
+        "user": "simone",
+        "uid": "137",
+        "asset_ref": "pv0438",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "TRAUMATOLOGIA Infettivi",
+        "network": "lineservizi",
+        "operator": "Line S.p.A.",
+        "public_transport": "stop_position",
+        "ref": "pv0438",
+        "shelter": "yes",
+        "source": "survey",
+        "url": "http://lineservizi.it",
+        "id": "node/2480587003"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1461485,
+            45.2007213
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/2480587000",
+    "properties": {
+        "timestamp": "2013-10-02T20:57:37Z",
+        "version": "1",
+        "changeset": "18151410",
+        "user": "simone",
+        "uid": "137",
+        "asset_ref": "pv0436",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "CENTRO TRASFUSIONALE",
+        "network": "lineservizi",
+        "operator": "Line S.p.A.",
+        "public_transport": "stop_position",
+        "ref": "pv0436",
+        "url": "http://lineservizi.it",
+        "id": "node/2480587000"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1489536,
+            45.1984253
+        ]
+    }
+}
+]
+}

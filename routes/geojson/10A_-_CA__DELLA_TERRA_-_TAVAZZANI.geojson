@@ -1,0 +1,467 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+    "type": "Feature",
+    "id": "way/32636169",
+    "properties": {
+        "timestamp": "2013-08-06T14:58:31Z",
+        "version": "4",
+        "changeset": "17242305",
+        "user": "WernerP",
+        "uid": "315015",
+        "highway": "tertiary",
+        "name": "Via Lardirago",
+        "source": "bing",
+        "id": "way/32636169"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.182169,
+                45.1996579
+            ],
+            [
+                9.1830466,
+                45.20039
+            ],
+            [
+                9.1837004,
+                45.2008616
+            ],
+            [
+                9.1846097,
+                45.2014605
+            ],
+            [
+                9.1870736,
+                45.2028536
+            ],
+            [
+                9.1874584,
+                45.2031424
+            ],
+            [
+                9.1877801,
+                45.2034128
+            ],
+            [
+                9.1878261,
+                45.2034515
+            ],
+            [
+                9.1882018,
+                45.2038568
+            ],
+            [
+                9.188349,
+                45.2040531
+            ],
+            [
+                9.1885504,
+                45.204229
+            ],
+            [
+                9.1887257,
+                45.2043693
+            ],
+            [
+                9.1889712,
+                45.2044795
+            ],
+            [
+                9.1892618,
+                45.2045998
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/160833861",
+    "properties": {
+        "timestamp": "2012-04-23T21:37:55Z",
+        "version": "1",
+        "changeset": "11399374",
+        "user": "danny1984",
+        "uid": "654204",
+        "highway": "unclassified",
+        "name": "Via Tavazzani",
+        "id": "way/160833861"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1811857,
+                45.1994219
+            ],
+            [
+                9.1818025,
+                45.1998946
+            ],
+            [
+                9.182169,
+                45.1996579
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/28411624",
+    "properties": {
+        "timestamp": "2013-09-06T20:42:55Z",
+        "version": "5",
+        "changeset": "17709688",
+        "user": "mcheckimport",
+        "uid": "893327",
+        "highway": "tertiary",
+        "name": "Via Lardirago",
+        "id": "way/28411624"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1892618,
+                45.2045998
+            ],
+            [
+                9.1895434,
+                45.2047229
+            ],
+            [
+                9.1898576,
+                45.2048648
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/160981913",
+    "properties": {
+        "timestamp": "2012-04-29T10:13:06Z",
+        "version": "2",
+        "changeset": "11448057",
+        "user": "danny1984",
+        "uid": "654204",
+        "highway": "unclassified",
+        "name": "Strada Ca' della Terra",
+        "id": "way/160981913"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1917461,
+                45.2069503
+            ],
+            [
+                9.1911073,
+                45.2073627
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/160981917",
+    "properties": {
+        "timestamp": "2013-03-10T17:39:15Z",
+        "version": "2",
+        "changeset": "15317802",
+        "user": "mcheck",
+        "uid": "478872",
+        "highway": "tertiary",
+        "name": "Via Lardirago",
+        "id": "way/160981917"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1899553,
+                45.2060267
+            ],
+            [
+                9.1899485,
+                45.2061901
+            ],
+            [
+                9.1900569,
+                45.206414
+            ],
+            [
+                9.1902772,
+                45.206685
+            ],
+            [
+                9.1905906,
+                45.2069561
+            ],
+            [
+                9.1911073,
+                45.2073627
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/160981918",
+    "properties": {
+        "timestamp": "2012-04-29T10:13:07Z",
+        "version": "2",
+        "changeset": "11448057",
+        "user": "danny1984",
+        "uid": "654204",
+        "highway": "residential",
+        "name": "Strada Ca' della Terra",
+        "id": "way/160981918"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1910717,
+                45.2064051
+            ],
+            [
+                9.1917461,
+                45.2069503
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/236885049",
+    "properties": {
+        "timestamp": "2013-09-06T20:42:54Z",
+        "version": "1",
+        "changeset": "17709688",
+        "user": "mcheckimport",
+        "uid": "893327",
+        "highway": "tertiary",
+        "name": "Via Lardirago",
+        "tunnel": "yes",
+        "id": "way/236885049"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1898576,
+                45.2048648
+            ],
+            [
+                9.189942,
+                45.2049317
+            ],
+            [
+                9.1900467,
+                45.2050754
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/236885050",
+    "properties": {
+        "timestamp": "2013-09-06T20:42:54Z",
+        "version": "1",
+        "changeset": "17709688",
+        "user": "mcheckimport",
+        "uid": "893327",
+        "highway": "tertiary",
+        "name": "Via Lardirago",
+        "id": "way/236885050"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1900467,
+                45.2050754
+            ],
+            [
+                9.1900891,
+                45.2051455
+            ],
+            [
+                9.1901285,
+                45.2052464
+            ],
+            [
+                9.1901252,
+                45.2053285
+            ],
+            [
+                9.1901088,
+                45.2054442
+            ],
+            [
+                9.190071,
+                45.2056421
+            ],
+            [
+                9.1900131,
+                45.2058157
+            ],
+            [
+                9.1899553,
+                45.2060267
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/1835765053",
+    "properties": {
+        "timestamp": "2013-10-09T13:33:39Z",
+        "version": "3",
+        "changeset": "18264832",
+        "user": "GiovanniMiceli",
+        "uid": "1762843",
+        "asset_ref": "pv0265",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "TAVAZZANI Lardirago",
+        "network": "lineservizi",
+        "operator": "Line S.p.A.",
+        "public_transport": "stop_position",
+        "id": "node/1835765053"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1814234,
+            45.1996568
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/247869007",
+    "properties": {
+        "timestamp": "2012-04-14T08:56:16Z",
+        "version": "2",
+        "changeset": "11296153",
+        "user": "danny1984",
+        "uid": "654204",
+        "highway": "traffic_signals",
+        "id": "node/247869007"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.182169,
+            45.1996579
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/1838212258",
+    "properties": {
+        "timestamp": "2013-10-09T13:49:24Z",
+        "version": "3",
+        "changeset": "18265135",
+        "user": "GiovanniMiceli",
+        "uid": "1762843",
+        "asset_ref": "pv0441",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "LARDIRAGO Torre del Gallo",
+        "network": "lineservizi",
+        "operator": "Line S.p.A.",
+        "public_transport": "stop_position",
+        "id": "node/1838212258"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1843246,
+            45.2013244
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/1729593737",
+    "properties": {
+        "timestamp": "2012-07-25T21:28:59Z",
+        "version": "2",
+        "changeset": "12492135",
+        "user": "danny1984",
+        "uid": "654204",
+        "highway": "turning_circle",
+        "id": "node/1729593737"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1910717,
+            45.2064051
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/1838212257",
+    "properties": {
+        "timestamp": "2013-10-09T13:49:24Z",
+        "version": "3",
+        "changeset": "18265135",
+        "user": "GiovanniMiceli",
+        "uid": "1762843",
+        "asset_ref": "pv0440",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "FORNETTO",
+        "network": "lineservizi",
+        "operator": "Line S.p.A.",
+        "public_transport": "stop_position",
+        "id": "node/1838212257"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1905034,
+            45.2069038
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/1838212260",
+    "properties": {
+        "timestamp": "2013-10-09T13:49:24Z",
+        "version": "3",
+        "changeset": "18265135",
+        "user": "GiovanniMiceli",
+        "uid": "1762843",
+        "asset_ref": "pv0439",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "CA' DELLA TERRA",
+        "network": "lineservizi",
+        "operator": "Line S.p.A.",
+        "public_transport": "stop_position",
+        "id": "node/1838212260"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1912126,
+            45.2064194
+        ]
+    }
+}
+]
+}

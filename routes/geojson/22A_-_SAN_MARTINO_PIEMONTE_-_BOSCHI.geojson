@@ -1,0 +1,960 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+    "type": "Feature",
+    "id": "way/28236170",
+    "properties": {
+        "timestamp": "2013-05-01T17:36:05Z",
+        "version": "11",
+        "changeset": "15936565",
+        "user": "giuliopv",
+        "uid": "353659",
+        "highway": "tertiary",
+        "ref": "SP64",
+        "id": "way/28236170"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1589157,
+                45.1545816
+            ],
+            [
+                9.1584351,
+                45.1549629
+            ],
+            [
+                9.1583487,
+                45.1550469
+            ],
+            [
+                9.1581862,
+                45.155205
+            ],
+            [
+                9.1579716,
+                45.155441
+            ],
+            [
+                9.1577227,
+                45.1556892
+            ],
+            [
+                9.1576111,
+                45.1558345
+            ],
+            [
+                9.1574995,
+                45.1559132
+            ],
+            [
+                9.1573708,
+                45.1559737
+            ],
+            [
+                9.1572506,
+                45.156016
+            ],
+            [
+                9.1570961,
+                45.1560584
+            ],
+            [
+                9.1569588,
+                45.1560826
+            ],
+            [
+                9.1567185,
+                45.1560947
+            ],
+            [
+                9.1565296,
+                45.1560766
+            ],
+            [
+                9.1563408,
+                45.1560403
+            ],
+            [
+                9.1563055,
+                45.1560315
+            ],
+            [
+                9.1562237,
+                45.156011
+            ],
+            [
+                9.1551371,
+                45.1557395
+            ],
+            [
+                9.1530771,
+                45.1552629
+            ],
+            [
+                9.1518078,
+                45.154981
+            ],
+            [
+                9.1517468,
+                45.1549678
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/54657549",
+    "properties": {
+        "timestamp": "2010-11-23T14:32:27Z",
+        "version": "4",
+        "changeset": "6439908",
+        "user": "Riverlab",
+        "uid": "22264",
+        "highway": "unclassified",
+        "name": "Via Dante Alighieri",
+        "id": "way/54657549"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.16111,
+                45.1562883
+            ],
+            [
+                9.1611732,
+                45.1562409
+            ],
+            [
+                9.1617955,
+                45.1558795
+            ],
+            [
+                9.1624276,
+                45.1555191
+            ],
+            [
+                9.1638487,
+                45.15481
+            ],
+            [
+                9.1655892,
+                45.1538244
+            ],
+            [
+                9.1653187,
+                45.1533743
+            ],
+            [
+                9.165085,
+                45.1529854
+            ],
+            [
+                9.1649285,
+                45.1527019
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/80511896",
+    "properties": {
+        "timestamp": "2013-04-25T11:54:02Z",
+        "version": "4",
+        "changeset": "15859701",
+        "user": "danny1984",
+        "uid": "654204",
+        "highway": "tertiary",
+        "ref": "SP64",
+        "id": "way/80511896"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1517468,
+                45.1549678
+            ],
+            [
+                9.1516729,
+                45.1551431
+            ],
+            [
+                9.15156,
+                45.1554108
+            ],
+            [
+                9.1513111,
+                45.1560524
+            ],
+            [
+                9.1510622,
+                45.1565789
+            ],
+            [
+                9.1504271,
+                45.1578681
+            ],
+            [
+                9.1501524,
+                45.1583826
+            ],
+            [
+                9.1500738,
+                45.1586873
+            ],
+            [
+                9.1500151,
+                45.1589152
+            ],
+            [
+                9.1499464,
+                45.1596293
+            ],
+            [
+                9.1497748,
+                45.1612089
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/218867791",
+    "properties": {
+        "timestamp": "2013-04-25T11:37:38Z",
+        "version": "1",
+        "changeset": "15859701",
+        "user": "danny1984",
+        "uid": "654204",
+        "highway": "unclassified",
+        "name": "Via Predamasco",
+        "id": "way/218867791"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1589157,
+                45.1545816
+            ],
+            [
+                9.159438,
+                45.1549879
+            ],
+            [
+                9.16111,
+                45.1562883
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/86222182",
+    "properties": {
+        "timestamp": "2013-10-12T19:47:11Z",
+        "version": "3",
+        "changeset": "18321225",
+        "user": "IlBano",
+        "uid": "1720269",
+        "highway": "unclassified",
+        "name": "Strada dei Boschi",
+        "id": "way/86222182"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1649285,
+                45.1527019
+            ],
+            [
+                9.1649796,
+                45.1526647
+            ],
+            [
+                9.1650427,
+                45.152627
+            ],
+            [
+                9.1651435,
+                45.1525973
+            ],
+            [
+                9.1654771,
+                45.1525157
+            ],
+            [
+                9.1656879,
+                45.152478
+            ],
+            [
+                9.1658026,
+                45.1524575
+            ],
+            [
+                9.1661692,
+                45.1524087
+            ],
+            [
+                9.166278,
+                45.1523942
+            ],
+            [
+                9.16677,
+                45.1523756
+            ],
+            [
+                9.1682369,
+                45.1522323
+            ],
+            [
+                9.1685708,
+                45.1521896
+            ],
+            [
+                9.1688251,
+                45.1522137
+            ],
+            [
+                9.169133,
+                45.1523338
+            ],
+            [
+                9.1694036,
+                45.1524011
+            ],
+            [
+                9.1695394,
+                45.1524439
+            ],
+            [
+                9.1697566,
+                45.1524639
+            ],
+            [
+                9.1719778,
+                45.1525995
+            ],
+            [
+                9.1744738,
+                45.1527904
+            ],
+            [
+                9.1761542,
+                45.1529224
+            ],
+            [
+                9.1768712,
+                45.1529951
+            ],
+            [
+                9.1776056,
+                45.1531704
+            ],
+            [
+                9.1782257,
+                45.153272
+            ],
+            [
+                9.1786669,
+                45.1534297
+            ],
+            [
+                9.1790277,
+                45.1535355
+            ],
+            [
+                9.1799262,
+                45.153606
+            ],
+            [
+                9.1805536,
+                45.1536478
+            ],
+            [
+                9.1807072,
+                45.1536179
+            ],
+            [
+                9.1817902,
+                45.1534427
+            ],
+            [
+                9.1841573,
+                45.1529572
+            ],
+            [
+                9.1843938,
+                45.152918
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/240640873",
+    "properties": {
+        "timestamp": "2013-10-07T12:18:02Z",
+        "version": "2",
+        "changeset": "18228669",
+        "user": "simone",
+        "uid": "137",
+        "highway": "tertiary",
+        "name": "Via Piemonte",
+        "id": "way/240640873"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1368257,
+                45.1636787
+            ],
+            [
+                9.1361551,
+                45.1638465
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/33285244",
+    "properties": {
+        "timestamp": "2013-10-09T21:41:50Z",
+        "version": "12",
+        "changeset": "18272035",
+        "user": "IlBano",
+        "uid": "1720269",
+        "highway": "tertiary",
+        "name": "Via Rotta",
+        "ref": "SP64",
+        "id": "way/33285244"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1497748,
+                45.1612089
+            ],
+            [
+                9.1497147,
+                45.1616507
+            ],
+            [
+                9.1496564,
+                45.1618317
+            ],
+            [
+                9.1495114,
+                45.1621565
+            ],
+            [
+                9.1493714,
+                45.1624012
+            ],
+            [
+                9.1491075,
+                45.1628055
+            ],
+            [
+                9.148943,
+                45.1630234
+            ],
+            [
+                9.1487638,
+                45.1631757
+            ],
+            [
+                9.1485817,
+                45.1633029
+            ],
+            [
+                9.1483414,
+                45.1634482
+            ],
+            [
+                9.1481268,
+                45.1635631
+            ],
+            [
+                9.1479208,
+                45.1636358
+            ],
+            [
+                9.1475689,
+                45.1637205
+            ],
+            [
+                9.1473458,
+                45.1637568
+            ],
+            [
+                9.1470557,
+                45.1638031
+            ],
+            [
+                9.1466165,
+                45.1638542
+            ],
+            [
+                9.1465227,
+                45.1638697
+            ],
+            [
+                9.1457039,
+                45.1639172
+            ],
+            [
+                9.1447792,
+                45.1639098
+            ],
+            [
+                9.1446893,
+                45.1639105
+            ],
+            [
+                9.1441099,
+                45.1639452
+            ],
+            [
+                9.1434918,
+                45.1640298
+            ],
+            [
+                9.1429499,
+                45.164104
+            ],
+            [
+                9.1423235,
+                45.164211
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/33285256",
+    "properties": {
+        "timestamp": "2013-08-03T08:58:24Z",
+        "version": "6",
+        "changeset": "17201388",
+        "user": "mcheckimport",
+        "uid": "893327",
+        "bridge": "yes",
+        "highway": "tertiary",
+        "layer": "1",
+        "name": "Via Po",
+        "ref": "SP64",
+        "id": "way/33285256"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.14229,
+                45.1642176
+            ],
+            [
+                9.1422525,
+                45.1642233
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/159401879",
+    "properties": {
+        "timestamp": "2013-10-07T12:18:03Z",
+        "version": "3",
+        "changeset": "18228669",
+        "user": "simone",
+        "uid": "137",
+        "highway": "secondary",
+        "name": "Via Turati",
+        "ref": "SS35",
+        "id": "way/159401879"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1361551,
+                45.1638465
+            ],
+            [
+                9.1367797,
+                45.1643808
+            ],
+            [
+                9.1370081,
+                45.1645691
+            ],
+            [
+                9.1370414,
+                45.1645965
+            ],
+            [
+                9.1372172,
+                45.1647311
+            ],
+            [
+                9.1373951,
+                45.1648673
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/27273595",
+    "properties": {
+        "timestamp": "2013-12-10T17:51:57Z",
+        "version": "6",
+        "changeset": "19381492",
+        "user": "GiovanniMiceli",
+        "uid": "1762843",
+        "highway": "residential",
+        "name": "Via Gabba",
+        "id": "way/27273595"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1373951,
+                45.1648673
+            ],
+            [
+                9.1396021,
+                45.1647679
+            ],
+            [
+                9.1397399,
+                45.1647865
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/46198365",
+    "properties": {
+        "timestamp": "2013-03-19T15:40:16Z",
+        "version": "4",
+        "changeset": "15421482",
+        "user": "Simone Saviolo",
+        "uid": "169211",
+        "highway": "tertiary",
+        "name": "Via Po",
+        "ref": "SP64",
+        "id": "way/46198365"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1422525,
+                45.1642233
+            ],
+            [
+                9.1419911,
+                45.1642794
+            ],
+            [
+                9.1413193,
+                45.1644095
+            ],
+            [
+                9.1404944,
+                45.1646125
+            ],
+            [
+                9.1397399,
+                45.1647865
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/46198351",
+    "properties": {
+        "timestamp": "2013-08-03T08:58:30Z",
+        "version": "4",
+        "changeset": "17201388",
+        "user": "mcheckimport",
+        "uid": "893327",
+        "bridge": "yes",
+        "highway": "tertiary",
+        "layer": "1",
+        "name": "Via Rotta",
+        "ref": "SP64",
+        "id": "way/46198351"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1423235,
+                45.164211
+            ],
+            [
+                9.14229,
+                45.1642176
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/2543014264",
+    "properties": {
+        "timestamp": "2013-11-21T12:34:59Z",
+        "version": "1",
+        "changeset": "19033747",
+        "user": "giuliopv",
+        "uid": "353659",
+        "asset_ref": "pv0423",
+        "highway": "bus_stop",
+        "name": "Travacò MOCCHI Cascina Balena",
+        "id": "node/2543014264"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1524073,
+            45.1550669
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/2280747097",
+    "properties": {
+        "timestamp": "2013-10-12T19:44:26Z",
+        "version": "2",
+        "changeset": "18321188",
+        "user": "giuliopv",
+        "uid": "353659",
+        "asset_ref": "pv0593",
+        "highway": "bus_stop",
+        "name": "Travacò DANTE ALIGHIERI",
+        "id": "node/2280747097"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1651387,
+            45.1531833
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/2280747089",
+    "properties": {
+        "timestamp": "2013-10-12T19:37:54Z",
+        "version": "2",
+        "changeset": "18321068",
+        "user": "giuliopv",
+        "uid": "353659",
+        "asset_ref": "pv0484",
+        "highway": "bus_stop",
+        "name": "Travacò MADONNA",
+        "id": "node/2280747089"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1807331,
+            45.1535919
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/2280747091",
+    "properties": {
+        "timestamp": "2013-10-12T19:37:53Z",
+        "version": "2",
+        "changeset": "18321068",
+        "user": "giuliopv",
+        "uid": "353659",
+        "asset_ref": "pv0485",
+        "highway": "bus_stop",
+        "name": "Travacò BOSCHI",
+        "id": "node/2280747091"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1844211,
+            45.1529166
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/208607277",
+    "properties": {
+        "timestamp": "2013-10-02T22:51:49Z",
+        "version": "5",
+        "changeset": "18152928",
+        "user": "GiovanniMiceli",
+        "uid": "1762843",
+        "highway": "traffic_signals",
+        "id": "node/208607277"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1361551,
+            45.1638465
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/1737084102",
+    "properties": {
+        "timestamp": "2013-10-09T15:39:54Z",
+        "version": "2",
+        "changeset": "18266909",
+        "user": "GiovanniMiceli",
+        "uid": "1762843",
+        "asset_ref": "pv0135",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "San Martino PIEMONTE",
+        "network": "lineservizi",
+        "operator": "Line S.p.A.",
+        "public_transport": "stop_position",
+        "id": "node/1737084102"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1371804,
+            45.1636735
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/2280750322",
+    "properties": {
+        "timestamp": "2013-10-12T19:37:53Z",
+        "version": "2",
+        "changeset": "18321068",
+        "user": "giuliopv",
+        "uid": "353659",
+        "asset_ref": "pv0473",
+        "highway": "bus_stop",
+        "name": "Travacò LA ROTTA 26-37",
+        "id": "node/2280750322"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1464169,
+            45.1638316
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/2280750328",
+    "properties": {
+        "timestamp": "2013-10-12T19:37:54Z",
+        "version": "2",
+        "changeset": "18321068",
+        "user": "giuliopv",
+        "uid": "353659",
+        "asset_ref": "pv0472",
+        "highway": "bus_stop",
+        "name": "Travacò LA ROTTA 5-6",
+        "id": "node/2280750328"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.143225,
+            45.1640283
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/140601355",
+    "properties": {
+        "timestamp": "2013-11-26T18:07:43Z",
+        "version": "12",
+        "changeset": "19131180",
+        "user": "simone",
+        "uid": "137",
+        "highway": "traffic_signals",
+        "id": "node/140601355"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1397399,
+            45.1647865
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/2280750321",
+    "properties": {
+        "timestamp": "2013-10-12T19:37:53Z",
+        "version": "2",
+        "changeset": "18321068",
+        "user": "giuliopv",
+        "uid": "353659",
+        "asset_ref": "pv0471",
+        "highway": "bus_stop",
+        "name": "San Martino PO",
+        "id": "node/2280750321"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1408567,
+            45.1644859
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/2280750327",
+    "properties": {
+        "timestamp": "2013-10-12T19:37:53Z",
+        "version": "2",
+        "changeset": "18321068",
+        "user": "giuliopv",
+        "uid": "353659",
+        "asset_ref": "pv0474",
+        "highway": "bus_stop",
+        "name": "Travacò Cascina PORTICHETTO",
+        "id": "node/2280750327"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1497321,
+            45.161199
+        ]
+    }
+}
+]
+}

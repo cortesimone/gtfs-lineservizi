@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2013-12-17T22:28:02Z"/>
+
+  <node id="211023949" lat="45.1882176" lon="9.1455600" version="4" timestamp="2011-01-02T21:13:10Z" changeset="6843705" uid="137" user="simone"/>
+  <node id="211023958" lat="45.1889269" lon="9.1462277" version="1" timestamp="2008-01-08T17:59:01Z" changeset="578851" uid="22110" user="ilrobi">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="211023966" lat="45.1901489" lon="9.1474938" version="2" timestamp="2008-04-03T17:11:07Z" changeset="28367" uid="26299" user="uboot"/>
+  <node id="211037106" lat="45.1886828" lon="9.1460159" version="1" timestamp="2008-01-08T18:06:18Z" changeset="578851" uid="22110" user="ilrobi">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="712394396" lat="45.1885915" lon="9.1459690" version="7" timestamp="2013-10-10T18:15:17Z" changeset="18285564" uid="1762843" user="GiovanniMiceli">
+    <tag k="asset_ref" v="pv0216"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="STAZIONE 6"/>
+    <tag k="network" v="lineservizi"/>
+    <tag k="operator" v="Line S.p.A."/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="route_ref" v="3"/>
+    <tag k="source" v="survey"/>
+    <tag k="url" v="http://lineservizi.it"/>
+  </node>
+  <node id="2478279556" lat="45.1889557" lon="9.1462576" version="1" timestamp="2013-09-30T21:55:24Z" changeset="18118530" uid="1720269" user="IlBano"/>
+  <node id="2488855374" lat="45.1884197" lon="9.1451657" version="3" timestamp="2013-10-10T22:55:20Z" changeset="18289476" uid="137" user="simone">
+    <tag k="asset_ref" v="pv0337"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="STAZIONE 3"/>
+    <tag k="network" v="lineservizi"/>
+    <tag k="operator" v="Line S.p.A."/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2491739901" lat="45.1882807" lon="9.1456218" version="1" timestamp="2013-10-10T22:55:08Z" changeset="18289476" uid="137" user="simone"/>
+  <node id="211023976" lat="45.1909387" lon="9.1482934" version="4" timestamp="2011-01-03T23:16:58Z" changeset="6856162" uid="137" user="simone"/>
+  <node id="206127829" lat="45.1902163" lon="9.1513177" version="3" timestamp="2012-12-03T22:31:44Z" changeset="14146236" uid="730682" user="Max1234-ITA">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="245111179" lat="45.1896152" lon="9.1544971" version="2" timestamp="2009-08-20T08:02:44Z" changeset="2208625" uid="160366" user="mrave"/>
+  <node id="567217477" lat="45.1902477" lon="9.1511744" version="3" timestamp="2012-12-03T22:31:45Z" changeset="14146236" uid="730682" user="Max1234-ITA"/>
+  <node id="687180747" lat="45.1894501" lon="9.1552072" version="1" timestamp="2010-04-07T06:39:12Z" changeset="4351670" uid="107284" user="gmarzio"/>
+  <node id="1732332715" lat="45.1894624" lon="9.1549588" version="3" timestamp="2013-10-09T10:37:41Z" changeset="18262061" uid="1762843" user="GiovanniMiceli">
+    <tag k="asset_ref" v="pv0190"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="MATTEOTTI Petrarca"/>
+    <tag k="network" v="lineservizi"/>
+    <tag k="operator" v="Line S.p.A."/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1732332716" lat="45.1901370" lon="9.1514258" version="3" timestamp="2013-10-09T10:37:41Z" changeset="18262061" uid="1762843" user="GiovanniMiceli">
+    <tag k="asset_ref" v="pv0189"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="MATTEOTTI Lanfranco"/>
+    <tag k="network" v="lineservizi"/>
+    <tag k="operator" v="Line S.p.A."/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="206127787" lat="45.1896620" lon="9.1616226" version="3" timestamp="2008-09-01T14:41:06Z" changeset="483963" uid="137" user="simone"/>
+  <node id="206127830" lat="45.1892158" lon="9.1562624" version="7" timestamp="2012-04-13T21:00:02Z" changeset="11292063" uid="654204" user="danny1984">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="206127831" lat="45.1892369" lon="9.1584568" version="5" timestamp="2012-12-02T00:13:29Z" changeset="14119044" uid="730682" user="Max1234-ITA"/>
+  <node id="206127832" lat="45.1891351" lon="9.1594320" version="4" timestamp="2012-08-01T07:38:15Z" changeset="12570626" uid="315015" user="WernerP"/>
+  <node id="206127833" lat="45.1891352" lon="9.1604426" version="4" timestamp="2010-02-17T23:20:32Z" changeset="3905615" uid="137" user="simone"/>
+  <node id="206127834" lat="45.1890720" lon="9.1609114" version="5" timestamp="2011-06-16T11:33:10Z" changeset="8455267" uid="137" user="simone"/>
+  <node id="206127835" lat="45.1892580" lon="9.1611550" version="1" timestamp="2008-01-04T14:10:12Z" changeset="537913" uid="137" user="simone"/>
+  <node id="207129034" lat="45.1894169" lon="9.1613497" version="2" timestamp="2010-02-17T23:20:32Z" changeset="3905615" uid="137" user="simone"/>
+  <node id="207137898" lat="45.1892081" lon="9.1572874" version="5" timestamp="2009-10-14T18:47:46Z" changeset="2848320" uid="137" user="simone"/>
+  <node id="207141986" lat="45.1892357" lon="9.1560738" version="5" timestamp="2010-12-02T13:56:53Z" changeset="6514970" uid="82704" user="Mold0101"/>
+  <node id="644041255" lat="45.1891143" lon="9.1608448" version="2" timestamp="2011-06-16T11:33:13Z" changeset="8455267" uid="137" user="simone"/>
+  <node id="651512225" lat="45.1892150" lon="9.1563483" version="1" timestamp="2010-02-23T12:44:45Z" changeset="3953029" uid="137" user="simone"/>
+  <node id="679850822" lat="45.1891779" lon="9.1576596" version="4" timestamp="2013-10-09T10:37:39Z" changeset="18262061" uid="1762843" user="GiovanniMiceli">
+    <tag k="asset_ref" v="pv0153"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="CASTELLO"/>
+    <tag k="network" v="lineservizi"/>
+    <tag k="operator" v="Line S.p.A."/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1327329548" lat="45.1891316" lon="9.1606627" version="1" timestamp="2011-06-16T11:33:06Z" changeset="8455267" uid="137" user="simone"/>
+  <node id="1327329580" lat="45.1891784" lon="9.1610508" version="1" timestamp="2011-06-16T11:33:08Z" changeset="8455267" uid="137" user="simone">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="1627980392" lat="45.1892479" lon="9.1582684" version="3" timestamp="2012-12-02T00:13:29Z" changeset="14119044" uid="730682" user="Max1234-ITA"/>
+  <node id="1737101283" lat="45.1898076" lon="9.1618998" version="3" timestamp="2013-10-09T14:03:39Z" changeset="18265420" uid="1762843" user="GiovanniMiceli">
+    <tag k="asset_ref" v="pv0154"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="EMANUELE FILIBERTO"/>
+    <tag k="network" v="lineservizi"/>
+    <tag k="operator" v="Line S.p.A."/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1846503460" lat="45.1891107" lon="9.1598400" version="1" timestamp="2012-08-01T07:37:46Z" changeset="12570626" uid="315015" user="WernerP"/>
+  <node id="2045400068" lat="45.1893324" lon="9.1556881" version="2" timestamp="2013-08-03T15:09:34Z" changeset="17205014" uid="893327" user="mcheckimport"/>
+  <node id="2406059309" lat="45.1893618" lon="9.1555665" version="1" timestamp="2013-08-03T15:09:30Z" changeset="17205014" uid="893327" user="mcheckimport"/>
+  <node id="2481282142" lat="45.1891600" lon="9.1610266" version="1" timestamp="2013-10-03T14:59:50Z" changeset="18163133" uid="1747587" user="steve6813"/>
+  <node id="206127828" lat="45.1904044" lon="9.1501998" version="7" timestamp="2012-12-03T22:31:44Z" changeset="14146236" uid="730682" user="Max1234-ITA"/>
+  <node id="245259665" lat="45.1903971" lon="9.1503663" version="4" timestamp="2012-12-03T22:31:44Z" changeset="14146236" uid="730682" user="Max1234-ITA"/>
+  <node id="282340843" lat="45.1905502" lon="9.1501039" version="5" timestamp="2012-12-03T22:31:44Z" changeset="14146236" uid="730682" user="Max1234-ITA"/>
+  <node id="1081231986" lat="45.1908219" lon="9.1488830" version="2" timestamp="2012-12-03T22:31:45Z" changeset="14146236" uid="730682" user="Max1234-ITA"/>
+  <node id="1627999591" lat="45.1903941" lon="9.1502329" version="2" timestamp="2012-12-03T22:31:45Z" changeset="14146236" uid="730682" user="Max1234-ITA"/>
+  <node id="1627999594" lat="45.1903983" lon="9.1503705" version="2" timestamp="2012-12-03T22:31:45Z" changeset="14146236" uid="730682" user="Max1234-ITA"/>
+  <node id="1627999606" lat="45.1904539" lon="9.1501275" version="2" timestamp="2012-12-03T22:31:45Z" changeset="14146236" uid="730682" user="Max1234-ITA"/>
+  <node id="1835832917" lat="45.1906560" lon="9.1494300" version="6" timestamp="2013-10-09T10:37:40Z" changeset="18262061" uid="1762843" user="GiovanniMiceli">
+    <tag k="asset_ref" v="pv0606"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="FILZI Dante"/>
+    <tag k="network" v="lineservizi"/>
+    <tag k="operator" v="Line S.p.A."/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2048962356" lat="45.1903872" lon="9.1502995" version="1" timestamp="2012-12-03T22:31:43Z" changeset="14146236" uid="730682" user="Max1234-ITA"/>
+  <node id="2048962357" lat="45.1904130" lon="9.1504023" version="1" timestamp="2012-12-03T22:31:43Z" changeset="14146236" uid="730682" user="Max1234-ITA"/>
+  <node id="2048962359" lat="45.1905734" lon="9.1501183" version="1" timestamp="2012-12-03T22:31:43Z" changeset="14146236" uid="730682" user="Max1234-ITA"/>
+  <node id="2048962360" lat="45.1906236" lon="9.1498945" version="2" timestamp="2013-06-03T11:40:49Z" changeset="16404247" uid="893327" user="mcheckimport"/>
+  <node id="2048962366" lat="45.1904179" lon="9.1501715" version="1" timestamp="2012-12-03T22:31:43Z" changeset="14146236" uid="730682" user="Max1234-ITA"/>
+  <node id="2048962367" lat="45.1905028" lon="9.1501025" version="1" timestamp="2012-12-03T22:31:43Z" changeset="14146236" uid="730682" user="Max1234-ITA"/>
+  <node id="2304335604" lat="45.1903945" lon="9.1504915" version="2" timestamp="2013-06-27T11:20:51Z" changeset="16722913" uid="893327" user="mcheckimport">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="2330491673" lat="45.1903991" lon="9.1504687" version="2" timestamp="2013-06-27T11:20:51Z" changeset="16722913" uid="893327" user="mcheckimport">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="206127785" lat="45.1900469" lon="9.1619872" version="3" timestamp="2012-04-13T20:49:49Z" changeset="11292063" uid="654204" user="danny1984">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="247867340" lat="45.1906043" lon="9.1624674" version="3" timestamp="2009-11-28T14:08:36Z" changeset="3236372" uid="154481" user="rubini">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="247867341" lat="45.1908723" lon="9.1627397" version="2" timestamp="2013-12-07T17:17:13Z" changeset="19326231" uid="1762843" user="GiovanniMiceli"/>
+  <node id="247867342" lat="45.1911469" lon="9.1630728" version="1" timestamp="2008-02-16T12:20:00Z" changeset="133018" uid="137" user="simone">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="247867343" lat="45.1913270" lon="9.1634799" version="2" timestamp="2008-12-05T15:21:17Z" changeset="141850" uid="83385" user="gruppo4">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="247867345" lat="45.1914497" lon="9.1637172" version="2" timestamp="2013-12-07T17:17:13Z" changeset="19326231" uid="1762843" user="GiovanniMiceli"/>
+  <node id="247867347" lat="45.1917919" lon="9.1644163" version="2" timestamp="2013-12-07T17:17:13Z" changeset="19326231" uid="1762843" user="GiovanniMiceli"/>
+  <node id="247867349" lat="45.1919119" lon="9.1646660" version="1" timestamp="2008-02-16T12:20:01Z" changeset="133018" uid="137" user="simone">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="247867350" lat="45.1920148" lon="9.1648321" version="1" timestamp="2008-02-16T12:20:01Z" changeset="133018" uid="137" user="simone">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="247867351" lat="45.1924186" lon="9.1655385" version="3" timestamp="2013-12-03T10:24:47Z" changeset="19248839" uid="137" user="simone"/>
+  <node id="278954692" lat="45.1925986" lon="9.1657687" version="2" timestamp="2013-12-03T10:24:47Z" changeset="19248839" uid="137" user="simone"/>
+  <node id="278954700" lat="45.1930263" lon="9.1662437" version="2" timestamp="2013-12-03T10:24:47Z" changeset="19248839" uid="137" user="simone"/>
+  <node id="278954706" lat="45.1936242" lon="9.1667263" version="3" timestamp="2012-04-14T08:56:16Z" changeset="11296153" uid="654204" user="danny1984">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="278954707" lat="45.1943268" lon="9.1671218" version="1" timestamp="2008-07-16T15:42:22Z" changeset="505867" uid="137" user="simone"/>
+  <node id="278954709" lat="45.1950018" lon="9.1673739" version="1" timestamp="2008-07-16T15:42:22Z" changeset="505867" uid="137" user="simone"/>
+  <node id="278954714" lat="45.1955711" lon="9.1675854" version="1" timestamp="2008-07-16T15:42:22Z" changeset="505867" uid="137" user="simone"/>
+  <node id="278954716" lat="45.1959338" lon="9.1676961" version="2" timestamp="2011-10-06T11:31:43Z" changeset="9484743" uid="178186" user="mdk">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="278954717" lat="45.1967747" lon="9.1680164" version="1" timestamp="2008-07-16T15:42:23Z" changeset="505867" uid="137" user="simone"/>
+  <node id="292869094" lat="45.1916318" lon="9.1640900" version="2" timestamp="2012-07-31T17:26:18Z" changeset="12564151" uid="315015" user="WernerP"/>
+  <node id="310934387" lat="45.1926474" lon="9.1658385" version="4" timestamp="2013-12-03T10:24:47Z" changeset="19248839" uid="137" user="simone"/>
+  <node id="316791417" lat="45.1915880" lon="9.1639861" version="2" timestamp="2013-12-07T17:17:13Z" changeset="19326231" uid="1762843" user="GiovanniMiceli"/>
+  <node id="632224379" lat="45.1930873" lon="9.1663016" version="2" timestamp="2013-12-03T10:24:47Z" changeset="19248839" uid="137" user="simone"/>
+  <node id="632224385" lat="45.1934178" lon="9.1665621" version="2" timestamp="2013-12-03T10:24:47Z" changeset="19248839" uid="137" user="simone"/>
+  <node id="632230865" lat="45.1947263" lon="9.1672710" version="1" timestamp="2010-02-07T09:31:18Z" changeset="3811875" uid="137" user="simone"/>
+  <node id="632230869" lat="45.1950675" lon="9.1673983" version="1" timestamp="2010-02-07T09:31:18Z" changeset="3811875" uid="137" user="simone"/>
+  <node id="645900527" lat="45.1922010" lon="9.1652173" version="1" timestamp="2010-02-19T01:32:28Z" changeset="3913377" uid="137" user="simone"/>
+  <node id="645900564" lat="45.1940233" lon="9.1669510" version="1" timestamp="2010-02-19T01:32:30Z" changeset="3913377" uid="137" user="simone"/>
+  <node id="646603337" lat="45.1940941" lon="9.1669908" version="1" timestamp="2010-02-19T10:43:25Z" changeset="3914670" uid="137" user="simone"/>
+  <node id="1737186338" lat="45.1916826" lon="9.1643673" version="3" timestamp="2013-10-09T14:03:41Z" changeset="18265420" uid="1762843" user="GiovanniMiceli">
+    <tag k="asset_ref" v="pv0155"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="TASSO Colesino"/>
+    <tag k="network" v="lineservizi"/>
+    <tag k="operator" v="Line S.p.A."/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1835798073" lat="45.1944440" lon="9.1673364" version="2" timestamp="2013-10-09T10:37:42Z" changeset="18262061" uid="1762843" user="GiovanniMiceli">
+    <tag k="asset_ref" v="pv0415"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="TASSO Torretta"/>
+    <tag k="network" v="lineservizi"/>
+    <tag k="operator" v="Line S.p.A."/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1835805345" lat="45.1929235" lon="9.1662606" version="3" timestamp="2013-12-03T10:24:47Z" changeset="19248839" uid="137" user="simone">
+    <tag k="asset_ref" v="pv0414"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="TASSO Gaffurio"/>
+    <tag k="network" v="lineservizi"/>
+    <tag k="operator" v="Line S.p.A."/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="1878892614" lat="45.1957375" lon="9.1676362" version="1" timestamp="2012-08-23T07:19:22Z" changeset="12829073" uid="137" user="simone"/>
+  <node id="2562628578" lat="45.1928512" lon="9.1660605" version="1" timestamp="2013-12-03T10:24:46Z" changeset="19248839" uid="137" user="simone"/>
+  <node id="2562628579" lat="45.1931919" lon="9.1664051" version="1" timestamp="2013-12-03T10:24:46Z" changeset="19248839" uid="137" user="simone"/>
+  <node id="645900612" lat="45.1973614" lon="9.1682719" version="1" timestamp="2010-02-19T01:32:32Z" changeset="3913377" uid="137" user="simone"/>
+  <node id="1835798069" lat="45.1971998" lon="9.1682967" version="2" timestamp="2013-10-09T10:37:42Z" changeset="18262061" uid="1762843" user="GiovanniMiceli">
+    <tag k="asset_ref" v="pv0416"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="TORRETTA"/>
+    <tag k="network" v="lineservizi"/>
+    <tag k="operator" v="Line S.p.A."/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="278954719" lat="45.1984835" lon="9.1687607" version="1" timestamp="2008-07-16T15:42:23Z" changeset="505867" uid="137" user="simone"/>
+  <node id="278954722" lat="45.2029856" lon="9.1706344" version="1" timestamp="2008-07-16T15:42:23Z" changeset="505867" uid="137" user="simone"/>
+  <node id="278954723" lat="45.2031314" lon="9.1706865" version="1" timestamp="2008-07-16T15:42:23Z" changeset="505867" uid="137" user="simone"/>
+  <node id="291542731" lat="45.2010659" lon="9.1698520" version="3" timestamp="2012-04-14T08:56:18Z" changeset="11296153" uid="654204" user="danny1984">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="366936135" lat="45.2020686" lon="9.1702553" version="1" timestamp="2009-03-29T16:13:53Z" changeset="867603" uid="137" user="simone"/>
+  <node id="648541753" lat="45.2032439" lon="9.1707322" version="1" timestamp="2010-02-20T21:52:14Z" changeset="3928092" uid="137" user="simone"/>
+  <node id="140462039" lat="45.2098733" lon="9.1737255" version="8" timestamp="2011-12-09T12:07:01Z" changeset="10072095" uid="504502" user="peppe10"/>
+  <node id="140462041" lat="45.2099276" lon="9.1738711" version="7" timestamp="2010-02-20T21:03:08Z" changeset="3927688" uid="137" user="simone"/>
+  <node id="140462042" lat="45.2100100" lon="9.1739728" version="7" timestamp="2010-02-20T21:03:08Z" changeset="3927688" uid="137" user="simone"/>
+  <node id="278955351" lat="45.2053660" lon="9.1715796" version="1" timestamp="2008-07-16T15:45:19Z" changeset="505867" uid="137" user="simone"/>
+  <node id="278957506" lat="45.2068520" lon="9.1727752" version="3" timestamp="2010-02-19T10:43:32Z" changeset="3914670" uid="137" user="simone"/>
+  <node id="278957507" lat="45.2069822" lon="9.1727998" version="3" timestamp="2010-02-19T10:43:32Z" changeset="3914670" uid="137" user="simone"/>
+  <node id="278957508" lat="45.2071514" lon="9.1726765" version="3" timestamp="2010-02-19T10:43:32Z" changeset="3914670" uid="137" user="simone"/>
+  <node id="278957509" lat="45.2072715" lon="9.1723548" version="4" timestamp="2013-10-03T15:54:43Z" changeset="18164056" uid="1762843" user="GiovanniMiceli"/>
+  <node id="278957512" lat="45.2067299" lon="9.1726373" version="3" timestamp="2010-02-19T10:43:32Z" changeset="3914670" uid="137" user="simone"/>
+  <node id="310494344" lat="45.2083575" lon="9.1727670" version="2" timestamp="2010-02-20T21:03:08Z" changeset="3927688" uid="137" user="simone"/>
+  <node id="366934124" lat="45.2043582" lon="9.1711852" version="1" timestamp="2009-03-29T16:05:43Z" changeset="867603" uid="137" user="simone"/>
+  <node id="366938745" lat="45.2066894" lon="9.1725088" version="2" timestamp="2010-02-19T10:43:32Z" changeset="3914670" uid="137" user="simone"/>
+  <node id="366938748" lat="45.2067855" lon="9.1727210" version="2" timestamp="2010-02-19T10:43:32Z" changeset="3914670" uid="137" user="simone"/>
+  <node id="646603473" lat="45.2066975" lon="9.1722916" version="1" timestamp="2010-02-19T10:43:27Z" changeset="3914670" uid="137" user="simone"/>
+  <node id="646603475" lat="45.2072062" lon="9.1725456" version="1" timestamp="2010-02-19T10:43:27Z" changeset="3914670" uid="137" user="simone"/>
+  <node id="648518762" lat="45.2092420" lon="9.1731443" version="1" timestamp="2010-02-20T21:02:58Z" changeset="3927688" uid="137" user="simone"/>
+  <node id="648518763" lat="45.2095441" lon="9.1733064" version="1" timestamp="2010-02-20T21:02:58Z" changeset="3927688" uid="137" user="simone"/>
+  <node id="648518768" lat="45.2096416" lon="9.1733914" version="1" timestamp="2010-02-20T21:02:58Z" changeset="3927688" uid="137" user="simone"/>
+  <node id="648518769" lat="45.2097669" lon="9.1735317" version="1" timestamp="2010-02-20T21:02:58Z" changeset="3927688" uid="137" user="simone"/>
+  <node id="648518795" lat="45.2098590" lon="9.1736871" version="1" timestamp="2010-02-20T21:02:59Z" changeset="3927688" uid="137" user="simone"/>
+  <node id="648541764" lat="45.2036412" lon="9.1708937" version="1" timestamp="2010-02-20T21:52:14Z" changeset="3928092" uid="137" user="simone"/>
+  <node id="2280102630" lat="45.2035495" lon="9.1709877" version="2" timestamp="2013-10-09T22:42:40Z" changeset="18273290" uid="1762843" user="GiovanniMiceli">
+    <tag k="asset_ref" v="pv0597"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="VIGENTINA Cassani"/>
+    <tag k="network" v="lineservizi"/>
+    <tag k="operator" v="Line S.p.A."/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2481332198" lat="45.2065277" lon="9.1720333" version="1" timestamp="2013-10-03T15:54:39Z" changeset="18164056" uid="1762843" user="GiovanniMiceli"/>
+  <node id="140460844" lat="45.2103980" lon="9.1739560" version="9" timestamp="2010-02-20T21:03:09Z" changeset="3927688" uid="137" user="simone"/>
+  <node id="140462043" lat="45.2101817" lon="9.1740478" version="7" timestamp="2010-02-20T21:03:08Z" changeset="3927688" uid="137" user="simone"/>
+  <node id="140462044" lat="45.2102922" lon="9.1740287" version="7" timestamp="2010-02-20T21:03:09Z" changeset="3927688" uid="137" user="simone"/>
+  <node id="140472718" lat="45.2108145" lon="9.1737728" version="3" timestamp="2010-02-20T21:03:09Z" changeset="3927688" uid="137" user="simone"/>
+  <node id="140472720" lat="45.2110103" lon="9.1738842" version="3" timestamp="2010-02-20T21:03:09Z" changeset="3927688" uid="137" user="simone"/>
+  <node id="140475164" lat="45.2135532" lon="9.1749832" version="1" timestamp="2007-11-28T21:42:40Z" changeset="640732" uid="137" user="simone"/>
+  <node id="278957525" lat="45.2104791" lon="9.1738411" version="3" timestamp="2010-02-20T21:03:09Z" changeset="3927688" uid="137" user="simone"/>
+  <node id="648518816" lat="45.2106464" lon="9.1737827" version="1" timestamp="2010-02-20T21:02:59Z" changeset="3927688" uid="137" user="simone"/>
+  <node id="648518841" lat="45.2133171" lon="9.1748811" version="1" timestamp="2010-02-20T21:03:00Z" changeset="3927688" uid="137" user="simone"/>
+  <node id="489699758" lat="45.2355129" lon="9.1750187" version="2" timestamp="2013-10-02T22:09:38Z" changeset="18152347" uid="1762843" user="GiovanniMiceli"/>
+  <node id="515045961" lat="45.2354227" lon="9.1744109" version="2" timestamp="2009-10-01T06:35:27Z" changeset="2696361" uid="82704" user="Mold0101">
+    <tag k="noexit" v="no"/>
+  </node>
+  <node id="2280088976" lat="45.2352335" lon="9.1745441" version="3" timestamp="2013-10-09T15:39:53Z" changeset="18266909" uid="1762843" user="GiovanniMiceli">
+    <tag k="asset_ref" v="pv0461"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="San Genesio CAROLA"/>
+    <tag k="network" v="lineservizi"/>
+    <tag k="operator" v="Line S.p.A."/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="140475165" lat="45.2163345" lon="9.1760990" version="1" timestamp="2007-11-28T21:42:40Z" changeset="640732" uid="137" user="simone"/>
+  <node id="491644892" lat="45.2148352" lon="9.1754997" version="1" timestamp="2009-09-10T00:11:41Z" changeset="2431149" uid="137" user="simone"/>
+  <node id="140475166" lat="45.2195933" lon="9.1773951" version="1" timestamp="2007-11-28T21:42:40Z" changeset="640732" uid="137" user="simone"/>
+  <node id="140478680" lat="45.2208388" lon="9.1779187" version="1" timestamp="2007-11-28T21:45:01Z" changeset="640732" uid="137" user="simone"/>
+  <node id="140479079" lat="45.2221749" lon="9.1784508" version="6" timestamp="2007-11-28T21:47:39Z" changeset="640732" uid="137" user="simone"/>
+  <node id="303199950" lat="45.2218624" lon="9.1782997" version="3" timestamp="2013-10-10T19:41:51Z" changeset="18287125" uid="137" user="simone"/>
+  <node id="2407671848" lat="45.2190316" lon="9.1771717" version="1" timestamp="2013-08-05T08:53:14Z" changeset="17224796" uid="315015" user="WernerP"/>
+  <node id="2407671875" lat="45.2194110" lon="9.1773226" version="1" timestamp="2013-08-05T08:53:15Z" changeset="17224796" uid="315015" user="WernerP"/>
+  <node id="2407671906" lat="45.2220787" lon="9.1783990" version="1" timestamp="2013-08-05T08:53:16Z" changeset="17224796" uid="315015" user="WernerP"/>
+  <node id="2407671924" lat="45.2228862" lon="9.1787229" version="1" timestamp="2013-08-05T08:53:16Z" changeset="17224796" uid="315015" user="WernerP"/>
+  <node id="2491537166" lat="45.2214554" lon="9.1781482" version="1" timestamp="2013-10-10T19:41:46Z" changeset="18287125" uid="137" user="simone"/>
+  <node id="2491537169" lat="45.2217103" lon="9.1782434" version="1" timestamp="2013-10-10T19:41:46Z" changeset="18287125" uid="137" user="simone"/>
+  <node id="2491537170" lat="45.2217370" lon="9.1782533" version="1" timestamp="2013-10-10T19:41:46Z" changeset="18287125" uid="137" user="simone"/>
+  <node id="2491607757" lat="45.2224720" lon="9.1786270" version="1" timestamp="2013-10-10T20:58:01Z" changeset="18288183" uid="1762843" user="GiovanniMiceli">
+    <tag k="asset_ref" v="pv0455"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="MONTEMAINO ex dazio"/>
+    <tag k="network" v="lineservizi"/>
+    <tag k="operator" v="Line S.p.A."/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="140479444" lat="45.2234988" lon="9.1789572" version="5" timestamp="2007-11-28T21:47:39Z" changeset="640732" uid="137" user="simone"/>
+  <node id="140479759" lat="45.2250162" lon="9.1795580" version="4" timestamp="2007-11-28T21:47:39Z" changeset="640732" uid="137" user="simone"/>
+  <node id="140480569" lat="45.2262717" lon="9.1800864" version="4" timestamp="2010-05-05T11:23:57Z" changeset="4611978" uid="82704" user="Mold0101"/>
+  <node id="140480571" lat="45.2264091" lon="9.1801597" version="4" timestamp="2010-05-05T11:23:51Z" changeset="4611978" uid="82704" user="Mold0101"/>
+  <node id="140480574" lat="45.2265908" lon="9.1802556" version="4" timestamp="2013-04-24T21:05:47Z" changeset="15853666" uid="654204" user="danny1984"/>
+  <node id="489699901" lat="45.2294933" lon="9.1813664" version="2" timestamp="2010-05-05T11:23:57Z" changeset="4611978" uid="82704" user="Mold0101"/>
+  <node id="489699916" lat="45.2260546" lon="9.1799602" version="2" timestamp="2010-05-05T11:23:57Z" changeset="4611978" uid="82704" user="Mold0101"/>
+  <node id="559270281" lat="45.2275033" lon="9.1805720" version="2" timestamp="2010-05-05T11:23:56Z" changeset="4611978" uid="82704" user="Mold0101"/>
+  <node id="559270288" lat="45.2290007" lon="9.1811839" version="2" timestamp="2010-05-05T11:23:58Z" changeset="4611978" uid="82704" user="Mold0101"/>
+  <node id="722183746" lat="45.2267309" lon="9.1803513" version="3" timestamp="2013-09-08T18:45:47Z" changeset="17738145" uid="1720269" user="IlBano"/>
+  <node id="2280081151" lat="45.2271070" lon="9.1807863" version="2" timestamp="2013-09-08T18:45:47Z" changeset="17738145" uid="1720269" user="IlBano"/>
+  <node id="2280081157" lat="45.2271659" lon="9.1806414" version="2" timestamp="2013-09-08T18:45:47Z" changeset="17738145" uid="1720269" user="IlBano"/>
+  <node id="2280081177" lat="45.2270481" lon="9.1808087" version="2" timestamp="2013-09-08T18:45:47Z" changeset="17738145" uid="1720269" user="IlBano"/>
+  <node id="2280081183" lat="45.2269303" lon="9.1806414" version="2" timestamp="2013-09-08T18:45:47Z" changeset="17738145" uid="1720269" user="IlBano"/>
+  <node id="2280081188" lat="45.2269461" lon="9.1807251" version="2" timestamp="2013-09-08T18:45:47Z" changeset="17738145" uid="1720269" user="IlBano"/>
+  <node id="2280081215" lat="45.2271501" lon="9.1807251" version="2" timestamp="2013-09-08T18:45:47Z" changeset="17738145" uid="1720269" user="IlBano"/>
+  <node id="2280081217" lat="45.2269892" lon="9.1807863" version="2" timestamp="2013-09-08T18:45:47Z" changeset="17738145" uid="1720269" user="IlBano"/>
+  <node id="2407671959" lat="45.2237772" lon="9.1790674" version="1" timestamp="2013-08-05T08:53:17Z" changeset="17224796" uid="315015" user="WernerP"/>
+  <node id="2407671978" lat="45.2245715" lon="9.1793819" version="1" timestamp="2013-08-05T08:53:18Z" changeset="17224796" uid="315015" user="WernerP"/>
+  <node id="2407671981" lat="45.2246630" lon="9.1794182" version="1" timestamp="2013-08-05T08:53:18Z" changeset="17224796" uid="315015" user="WernerP"/>
+  <node id="2450848289" lat="45.2268074" lon="9.1804090" version="1" timestamp="2013-09-08T18:45:46Z" changeset="17738145" uid="1720269" user="IlBano"/>
+  <node id="2450851100" lat="45.2273299" lon="9.1804879" version="2" timestamp="2013-10-05T13:36:54Z" changeset="18195769" uid="1762843" user="GiovanniMiceli"/>
+  <node id="2450851104" lat="45.2272338" lon="9.1805603" version="1" timestamp="2013-09-08T18:50:03Z" changeset="17738201" uid="1720269" user="IlBano"/>
+  <node id="2450851107" lat="45.2268679" lon="9.1805239" version="1" timestamp="2013-09-08T18:50:03Z" changeset="17738201" uid="1720269" user="IlBano"/>
+  <node id="2469372778" lat="45.2249578" lon="9.1795349" version="1" timestamp="2013-09-23T21:18:46Z" changeset="17999373" uid="1720269" user="IlBano"/>
+  <node id="489699763" lat="45.2357274" lon="9.1761441" version="1" timestamp="2009-09-08T16:17:25Z" changeset="2415144" uid="154481" user="rubini"/>
+  <node id="489699768" lat="45.2358906" lon="9.1770453" version="1" timestamp="2009-09-08T16:17:25Z" changeset="2415144" uid="154481" user="rubini"/>
+  <node id="489699773" lat="45.2358724" lon="9.1779036" version="1" timestamp="2009-09-08T16:17:25Z" changeset="2415144" uid="154481" user="rubini"/>
+  <node id="489699777" lat="45.2358927" lon="9.1786692" version="2" timestamp="2009-11-07T23:51:12Z" changeset="3060103" uid="82704" user="Mold0101"/>
+  <node id="489699779" lat="45.2358220" lon="9.1791103" version="2" timestamp="2013-04-24T21:05:47Z" changeset="15853666" uid="654204" user="danny1984"/>
+  <node id="510782827" lat="45.2297541" lon="9.1814734" version="2" timestamp="2010-05-05T11:23:55Z" changeset="4611978" uid="82704" user="Mold0101"/>
+  <node id="510782849" lat="45.2339973" lon="9.1788337" version="1" timestamp="2009-09-27T16:59:47Z" changeset="2654488" uid="82704" user="Mold0101"/>
+  <node id="510782850" lat="45.2333471" lon="9.1803787" version="1" timestamp="2009-09-27T16:59:47Z" changeset="2654488" uid="82704" user="Mold0101"/>
+  <node id="559270329" lat="45.2358530" lon="9.1768471" version="2" timestamp="2013-09-20T19:56:14Z" changeset="17946054" uid="1720269" user="IlBano"/>
+  <node id="559270331" lat="45.2357795" lon="9.1764753" version="2" timestamp="2010-05-05T11:23:55Z" changeset="4611978" uid="82704" user="Mold0101"/>
+  <node id="559270332" lat="45.2358836" lon="9.1783249" version="2" timestamp="2013-10-02T22:09:38Z" changeset="18152347" uid="1762843" user="GiovanniMiceli"/>
+  <node id="559270333" lat="45.2329059" lon="9.1814695" version="1" timestamp="2009-11-07T23:51:06Z" changeset="3060103" uid="82704" user="Mold0101"/>
+  <node id="559270334" lat="45.2329986" lon="9.1812403" version="1" timestamp="2009-11-07T23:51:06Z" changeset="3060103" uid="82704" user="Mold0101"/>
+  <node id="722183471" lat="45.2334402" lon="9.1801575" version="1" timestamp="2010-05-05T11:23:44Z" changeset="4611978" uid="82704" user="Mold0101"/>
+  <node id="722183664" lat="45.2358110" lon="9.1766295" version="1" timestamp="2010-05-05T11:23:46Z" changeset="4611978" uid="82704" user="Mold0101"/>
+  <node id="722183685" lat="45.2348372" lon="9.1790546" version="1" timestamp="2010-05-05T11:23:46Z" changeset="4611978" uid="82704" user="Mold0101"/>
+  <node id="722288258" lat="45.2355421" lon="9.1792314" version="2" timestamp="2013-04-24T21:05:47Z" changeset="15853666" uid="654204" user="danny1984"/>
+  <node id="2280081147" lat="45.2356505" lon="9.1793473" version="2" timestamp="2013-11-19T08:50:43Z" changeset="18989244" uid="196617" user="venerdi"/>
+  <node id="2280081149" lat="45.2356615" lon="9.1791774" version="2" timestamp="2013-11-19T08:50:43Z" changeset="18989244" uid="196617" user="venerdi"/>
+  <node id="2280081153" lat="45.2357273" lon="9.1793017" version="2" timestamp="2013-11-19T08:50:43Z" changeset="18989244" uid="196617" user="venerdi"/>
+  <node id="2280081159" lat="45.2357163" lon="9.1792040" version="2" timestamp="2013-11-19T08:50:43Z" changeset="18989244" uid="196617" user="venerdi"/>
+  <node id="2280081165" lat="45.2357174" lon="9.1793229" version="2" timestamp="2013-11-19T08:50:43Z" changeset="18989244" uid="196617" user="venerdi"/>
+  <node id="2280081168" lat="45.2356127" lon="9.1792935" version="2" timestamp="2013-11-19T08:50:43Z" changeset="18989244" uid="196617" user="venerdi"/>
+  <node id="2280081172" lat="45.2356815" lon="9.1791775" version="2" timestamp="2013-11-19T08:50:43Z" changeset="18989244" uid="196617" user="venerdi"/>
+  <node id="2280081175" lat="45.2356096" lon="9.1792538" version="2" timestamp="2013-11-19T08:50:43Z" changeset="18989244" uid="196617" user="venerdi"/>
+  <node id="2280081179" lat="45.2356213" lon="9.1793166" version="2" timestamp="2013-11-19T08:50:43Z" changeset="18989244" uid="196617" user="venerdi"/>
+  <node id="2280081191" lat="45.2357275" lon="9.1792275" version="2" timestamp="2013-11-19T08:50:43Z" changeset="18989244" uid="196617" user="venerdi"/>
+  <node id="2280081197" lat="45.2357004" lon="9.1791867" version="2" timestamp="2013-11-19T08:50:43Z" changeset="18989244" uid="196617" user="venerdi"/>
+  <node id="2280081201" lat="45.2356343" lon="9.1793350" version="2" timestamp="2013-11-19T08:50:43Z" changeset="18989244" uid="196617" user="venerdi"/>
+  <node id="2280081204" lat="45.2357037" lon="9.1793392" version="2" timestamp="2013-11-19T08:50:43Z" changeset="18989244" uid="196617" user="venerdi"/>
+  <node id="2280088977" lat="45.2358984" lon="9.1769958" version="2" timestamp="2013-10-09T17:47:21Z" changeset="18268988" uid="1762843" user="GiovanniMiceli">
+    <tag k="asset_ref" v="pv0460"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="San Genesio 1 MAGGIO"/>
+    <tag k="network" v="lineservizi"/>
+    <tag k="operator" v="Line S.p.A."/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2280088978" lat="45.2351149" lon="9.1791866" version="2" timestamp="2013-10-09T17:47:21Z" changeset="18268988" uid="1762843" user="GiovanniMiceli">
+    <tag k="asset_ref" v="pv0609"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="San Genesio PIEMONTE"/>
+    <tag k="network" v="lineservizi"/>
+    <tag k="operator" v="Line S.p.A."/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2539427506" lat="45.2356426" lon="9.1791862" version="1" timestamp="2013-11-19T08:50:42Z" changeset="18989244" uid="196617" user="venerdi"/>
+  <node id="2539427509" lat="45.2356266" lon="9.1792032" version="1" timestamp="2013-11-19T08:50:42Z" changeset="18989244" uid="196617" user="venerdi"/>
+  <node id="2539427511" lat="45.2356152" lon="9.1792266" version="1" timestamp="2013-11-19T08:50:43Z" changeset="18989244" uid="196617" user="venerdi"/>
+  <node id="2539427513" lat="45.2356096" lon="9.1792739" version="1" timestamp="2013-11-19T08:50:43Z" changeset="18989244" uid="196617" user="venerdi"/>
+  <node id="2539427514" lat="45.2356685" lon="9.1793522" version="1" timestamp="2013-11-19T08:50:43Z" changeset="18989244" uid="196617" user="venerdi"/>
+  <node id="2539427515" lat="45.2356868" lon="9.1793495" version="1" timestamp="2013-11-19T08:50:43Z" changeset="18989244" uid="196617" user="venerdi"/>
+  <node id="2539427516" lat="45.2357324" lon="9.1792773" version="1" timestamp="2013-11-19T08:50:43Z" changeset="18989244" uid="196617" user="venerdi"/>
+  <node id="2539427517" lat="45.2357325" lon="9.1792519" version="1" timestamp="2013-11-19T08:50:43Z" changeset="18989244" uid="196617" user="venerdi"/>
+  <node id="489699880" lat="45.2318983" lon="9.1823315" version="2" timestamp="2010-05-05T11:23:59Z" changeset="4611978" uid="82704" user="Mold0101"/>
+  <node id="489699897" lat="45.2308533" lon="9.1819243" version="2" timestamp="2010-05-05T11:23:53Z" changeset="4611978" uid="82704" user="Mold0101"/>
+  <node id="510782854" lat="45.2316634" lon="9.1822455" version="3" timestamp="2010-05-05T11:23:59Z" changeset="4611978" uid="82704" user="Mold0101"/>
+  <node id="510782858" lat="45.2313739" lon="9.1821394" version="2" timestamp="2010-05-05T11:23:51Z" changeset="4611978" uid="82704" user="Mold0101"/>
+  <node id="510782860" lat="45.2324517" lon="9.1825837" version="3" timestamp="2010-05-05T12:24:14Z" changeset="4612401" uid="82704" user="Mold0101"/>
+  <node id="510782861" lat="45.2315908" lon="9.1822290" version="2" timestamp="2010-05-05T11:23:50Z" changeset="4611978" uid="82704" user="Mold0101"/>
+  <node id="722183760" lat="45.2302136" lon="9.1816619" version="1" timestamp="2010-05-05T11:23:47Z" changeset="4611978" uid="82704" user="Mold0101"/>
+  <node id="2280088980" lat="45.2299262" lon="9.1816060" version="2" timestamp="2013-10-09T17:47:21Z" changeset="18268988" uid="1762843" user="GiovanniMiceli">
+    <tag k="asset_ref" v="pv0456"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="San Genesio PESCARINA Di Vittorio"/>
+    <tag k="network" v="lineservizi"/>
+    <tag k="operator" v="Line S.p.A."/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2280088985" lat="45.2321532" lon="9.1824777" version="2" timestamp="2013-10-09T17:47:21Z" changeset="18268988" uid="1762843" user="GiovanniMiceli">
+    <tag k="asset_ref" v="pv0457"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="San Genesio PESCARINA Due Porte"/>
+    <tag k="network" v="lineservizi"/>
+    <tag k="operator" v="Line S.p.A."/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2286129455" lat="45.2311881" lon="9.1820626" version="1" timestamp="2013-04-29T21:14:15Z" changeset="15914303" uid="5715" user="Hoylen Sue"/>
+  <way id="42250567" version="3" timestamp="2013-10-10T22:55:19Z" changeset="18289476" uid="137" user="simone">
+    <nd ref="211023949"/>
+    <nd ref="2491739901"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Piazzale della Stazione"/>
+  </way>
+  <way id="42250568" version="5" timestamp="2013-09-30T21:55:25Z" changeset="18118530" uid="1720269" user="IlBano">
+    <nd ref="211037106"/>
+    <nd ref="211023958"/>
+    <nd ref="2478279556"/>
+    <nd ref="211023966"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Via Trieste"/>
+  </way>
+  <way id="241562202" version="1" timestamp="2013-10-10T22:55:08Z" changeset="18289476" uid="137" user="simone">
+    <nd ref="2491739901"/>
+    <nd ref="211037106"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Piazzale della Stazione"/>
+  </way>
+  <way id="44393251" version="10" timestamp="2013-09-26T10:55:23Z" changeset="18042811" uid="137" user="simone">
+    <nd ref="211023976"/>
+    <nd ref="1081231986"/>
+    <nd ref="2048962360"/>
+    <nd ref="2048962359"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Via Fabio Filzi"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="171353604" version="2" timestamp="2013-03-10T17:43:00Z" changeset="15317802" uid="478872" user="mcheck">
+    <nd ref="211023966"/>
+    <nd ref="211023976"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Via Trieste"/>
+  </way>
+  <way id="25883156" version="10" timestamp="2013-12-10T18:04:14Z" changeset="19381650" uid="1762843" user="GiovanniMiceli">
+    <nd ref="206127787"/>
+    <nd ref="207129034"/>
+    <nd ref="206127835"/>
+    <nd ref="1327329580"/>
+    <nd ref="2481282142"/>
+    <nd ref="206127834"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Corso Fratelli Cairoli"/>
+  </way>
+  <way id="39340190" version="10" timestamp="2013-12-10T18:04:18Z" changeset="19381650" uid="1762843" user="GiovanniMiceli">
+    <nd ref="206127834"/>
+    <nd ref="644041255"/>
+    <nd ref="1327329548"/>
+    <nd ref="206127833"/>
+    <nd ref="1846503460"/>
+    <nd ref="206127832"/>
+    <nd ref="206127831"/>
+    <nd ref="1627980392"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="is_in:city" v="Pavia"/>
+    <tag k="name" v="Via Santa Maria alle Pertiche"/>
+  </way>
+  <way id="159397353" version="2" timestamp="2013-09-22T19:05:30Z" changeset="17979385" uid="137" user="simone">
+    <nd ref="206127830"/>
+    <nd ref="651512225"/>
+    <nd ref="207137898"/>
+    <nd ref="1627980392"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Piazza Castello"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="159395583" version="3" timestamp="2013-12-10T18:04:14Z" changeset="19381650" uid="1762843" user="GiovanniMiceli">
+    <nd ref="206127785"/>
+    <nd ref="206127787"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Piazza Emanuele Filiberto"/>
+  </way>
+  <way id="194378392" version="5" timestamp="2013-09-22T19:05:43Z" changeset="17979385" uid="137" user="simone">
+    <nd ref="2048962357"/>
+    <nd ref="2330491673"/>
+    <nd ref="2304335604"/>
+    <nd ref="567217477"/>
+    <nd ref="206127829"/>
+    <nd ref="245111179"/>
+    <nd ref="687180747"/>
+    <nd ref="2406059309"/>
+    <nd ref="2045400068"/>
+    <nd ref="207141986"/>
+    <nd ref="206127830"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="is_in:city" v="Pavia"/>
+    <tag k="name" v="Viale Giacomo Matteotti"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="240308824" version="3" timestamp="2013-10-03T10:09:21Z" changeset="18158430" uid="1762843" user="GiovanniMiceli">
+    <nd ref="2048962359"/>
+    <nd ref="282340843"/>
+    <nd ref="2048962367"/>
+    <nd ref="1627999606"/>
+    <nd ref="2048962366"/>
+    <nd ref="206127828"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="name" v="Piazza Dante Alighieri"/>
+  </way>
+  <way id="240358582" version="1" timestamp="2013-10-03T10:09:18Z" changeset="18158430" uid="1762843" user="GiovanniMiceli">
+    <nd ref="206127828"/>
+    <nd ref="1627999591"/>
+    <nd ref="2048962356"/>
+    <nd ref="245259665"/>
+    <nd ref="1627999594"/>
+    <nd ref="2048962357"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="name" v="Piazza Dante Alighieri"/>
+  </way>
+  <way id="26704634" version="14" timestamp="2013-12-10T18:04:19Z" changeset="19381650" uid="1762843" user="GiovanniMiceli">
+    <nd ref="247867340"/>
+    <nd ref="206127785"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Viale Gilardelli"/>
+  </way>
+  <way id="32637053" version="13" timestamp="2013-12-02T20:10:35Z" changeset="19240161" uid="137" user="simone">
+    <nd ref="278954706"/>
+    <nd ref="645900564"/>
+    <nd ref="646603337"/>
+    <nd ref="278954707"/>
+    <nd ref="632230865"/>
+    <nd ref="278954709"/>
+    <nd ref="632230869"/>
+    <nd ref="278954714"/>
+    <nd ref="1878892614"/>
+    <nd ref="278954716"/>
+    <nd ref="278954717"/>
+    <nd ref="645900612"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Via Vigentina"/>
+  </way>
+  <way id="32637054" version="10" timestamp="2013-12-10T18:04:18Z" changeset="19381650" uid="1762843" user="GiovanniMiceli">
+    <nd ref="292869094"/>
+    <nd ref="316791417"/>
+    <nd ref="247867345"/>
+    <nd ref="247867343"/>
+    <nd ref="247867342"/>
+    <nd ref="247867341"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Via Torquato Tasso"/>
+  </way>
+  <way id="44637093" version="6" timestamp="2013-12-10T18:04:19Z" changeset="19381650" uid="1762843" user="GiovanniMiceli">
+    <nd ref="247867341"/>
+    <nd ref="247867340"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+  </way>
+  <way id="159395579" version="3" timestamp="2013-12-03T10:24:46Z" changeset="19248839" uid="137" user="simone">
+    <nd ref="247867350"/>
+    <nd ref="645900527"/>
+    <nd ref="247867351"/>
+    <nd ref="278954692"/>
+    <nd ref="310934387"/>
+    <nd ref="2562628578"/>
+    <nd ref="278954700"/>
+    <nd ref="632224379"/>
+    <nd ref="2562628579"/>
+    <nd ref="632224385"/>
+    <nd ref="278954706"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Via Torquato Tasso"/>
+  </way>
+  <way id="241287418" version="1" timestamp="2013-10-09T16:37:54Z" changeset="18267845" uid="1762843" user="GiovanniMiceli">
+    <nd ref="292869094"/>
+    <nd ref="247867347"/>
+    <nd ref="247867349"/>
+    <nd ref="247867350"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Via Torquato Tasso"/>
+  </way>
+  <way id="240393628" version="1" timestamp="2013-10-03T15:54:39Z" changeset="18164056" uid="1762843" user="GiovanniMiceli">
+    <nd ref="648518795"/>
+    <nd ref="140462039"/>
+    <nd ref="140462041"/>
+    <nd ref="140462042"/>
+    <nd ref="140462043"/>
+    <nd ref="140462044"/>
+    <nd ref="140460844"/>
+    <nd ref="278957525"/>
+    <tag k="highway" v="primary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Tangenziale Est"/>
+    <tag k="ref" v="SP69"/>
+  </way>
+  <way id="240393630" version="1" timestamp="2013-10-03T15:54:39Z" changeset="18164056" uid="1762843" user="GiovanniMiceli">
+    <nd ref="2481332198"/>
+    <nd ref="278955351"/>
+    <nd ref="366934124"/>
+    <nd ref="648541764"/>
+    <nd ref="648541753"/>
+    <nd ref="278954723"/>
+    <nd ref="278954722"/>
+    <nd ref="366936135"/>
+    <nd ref="291542731"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Via Vigentina"/>
+  </way>
+  <way id="249612353" version="2" timestamp="2013-12-10T16:50:09Z" changeset="19380630" uid="1762843" user="GiovanniMiceli">
+    <nd ref="291542731"/>
+    <nd ref="278954719"/>
+    <nd ref="645900612"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Via Vigentina"/>
+  </way>
+  <way id="50844882" version="1" timestamp="2010-02-20T21:03:05Z" changeset="3927688" uid="137" user="simone">
+    <nd ref="648518763"/>
+    <nd ref="648518762"/>
+    <nd ref="310494344"/>
+    <nd ref="278957509"/>
+    <tag k="highway" v="tertiary"/>
+  </way>
+  <way id="50844889" version="2" timestamp="2011-10-06T11:31:10Z" changeset="9484743" uid="178186" user="mdk">
+    <nd ref="648518763"/>
+    <nd ref="648518768"/>
+    <nd ref="648518769"/>
+    <nd ref="648518795"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="240393632" version="1" timestamp="2013-10-03T15:54:39Z" changeset="18164056" uid="1762843" user="GiovanniMiceli">
+    <nd ref="646603473"/>
+    <nd ref="366938745"/>
+    <nd ref="278957512"/>
+    <nd ref="366938748"/>
+    <nd ref="278957506"/>
+    <nd ref="278957507"/>
+    <nd ref="278957508"/>
+    <nd ref="646603475"/>
+    <nd ref="278957509"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="junction" v="roundabout"/>
+  </way>
+  <way id="240393633" version="1" timestamp="2013-10-03T15:54:40Z" changeset="18164056" uid="1762843" user="GiovanniMiceli">
+    <nd ref="2481332198"/>
+    <nd ref="646603473"/>
+  </way>
+  <way id="25590684" version="9" timestamp="2011-10-06T11:30:42Z" changeset="9484743" uid="178186" user="mdk">
+    <nd ref="278957525"/>
+    <nd ref="648518816"/>
+    <nd ref="140472718"/>
+    <tag k="highway" v="primary"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="SP205"/>
+  </way>
+  <way id="50844877" version="5" timestamp="2013-10-10T19:41:51Z" changeset="18287125" uid="137" user="simone">
+    <nd ref="140472718"/>
+    <nd ref="140472720"/>
+    <nd ref="648518841"/>
+    <nd ref="140475164"/>
+    <nd ref="491644892"/>
+    <nd ref="140475165"/>
+    <nd ref="2407671848"/>
+    <nd ref="2407671875"/>
+    <nd ref="140475166"/>
+    <nd ref="140478680"/>
+    <nd ref="2491537166"/>
+    <tag k="highway" v="primary"/>
+    <tag k="ref" v="SP205"/>
+  </way>
+  <way id="238789162" version="3" timestamp="2013-12-10T17:30:55Z" changeset="19381209" uid="1762843" user="GiovanniMiceli">
+    <nd ref="489699758"/>
+    <nd ref="489699763"/>
+    <nd ref="559270331"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Via Certosa"/>
+  </way>
+  <way id="240323047" version="1" timestamp="2013-10-02T22:09:35Z" changeset="18152347" uid="1762843" user="GiovanniMiceli">
+    <nd ref="489699758"/>
+    <nd ref="515045961"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Via Certosa"/>
+  </way>
+  <way id="240393622" version="2" timestamp="2013-10-09T15:39:51Z" changeset="18266909" uid="1762843" user="GiovanniMiceli">
+    <nd ref="2450848289"/>
+    <nd ref="722183746"/>
+    <nd ref="140480574"/>
+    <nd ref="140480571"/>
+    <nd ref="140480569"/>
+    <nd ref="489699916"/>
+    <nd ref="140479759"/>
+    <nd ref="2469372778"/>
+    <nd ref="2407671981"/>
+    <nd ref="2407671978"/>
+    <nd ref="2407671959"/>
+    <nd ref="140479444"/>
+    <nd ref="2407671924"/>
+    <nd ref="140479079"/>
+    <nd ref="2407671906"/>
+    <tag k="highway" v="primary"/>
+    <tag k="ref" v="SP205"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="241274674" version="1" timestamp="2013-10-09T15:39:46Z" changeset="18266909" uid="1762843" user="GiovanniMiceli">
+    <nd ref="2407671906"/>
+    <nd ref="303199950"/>
+    <tag k="highway" v="primary"/>
+    <tag k="ref" v="SP205"/>
+    <tag k="source" v="bing"/>
+  </way>
+  <way id="241544796" version="1" timestamp="2013-10-10T19:41:46Z" changeset="18287125" uid="137" user="simone">
+    <nd ref="2491537166"/>
+    <nd ref="2491537169"/>
+    <nd ref="2491537170"/>
+    <nd ref="303199950"/>
+    <tag k="highway" v="primary"/>
+    <tag k="ref" v="SP205"/>
+  </way>
+  <way id="237140370" version="1" timestamp="2013-09-08T18:50:03Z" changeset="17738201" uid="1720269" user="IlBano">
+    <nd ref="2280081183"/>
+    <nd ref="2450851107"/>
+    <nd ref="2450848289"/>
+    <tag k="highway" v="primary"/>
+    <tag k="ref" v="SP205"/>
+  </way>
+  <way id="237140372" version="1" timestamp="2013-09-08T18:50:03Z" changeset="17738201" uid="1720269" user="IlBano">
+    <nd ref="2280081157"/>
+    <nd ref="2450851104"/>
+    <nd ref="2450851100"/>
+    <tag k="highway" v="unclassified"/>
+  </way>
+  <way id="240393627" version="1" timestamp="2013-10-03T15:54:39Z" changeset="18164056" uid="1762843" user="GiovanniMiceli">
+    <nd ref="2280081183"/>
+    <nd ref="2280081188"/>
+    <nd ref="2280081217"/>
+    <nd ref="2280081177"/>
+    <nd ref="2280081151"/>
+    <nd ref="2280081215"/>
+    <nd ref="2280081157"/>
+    <tag k="highway" v="primary"/>
+    <tag k="junction" v="roundabout"/>
+    <tag k="ref" v="SP205"/>
+  </way>
+  <way id="40439976" version="9" timestamp="2013-10-03T15:54:42Z" changeset="18164056" uid="1762843" user="GiovanniMiceli">
+    <nd ref="510782860"/>
+    <nd ref="489699880"/>
+    <nd ref="510782854"/>
+    <nd ref="510782861"/>
+    <nd ref="510782858"/>
+    <nd ref="2286129455"/>
+    <nd ref="489699897"/>
+    <nd ref="722183760"/>
+    <nd ref="510782827"/>
+    <nd ref="489699901"/>
+    <nd ref="559270288"/>
+    <nd ref="559270281"/>
+    <nd ref="2450851100"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Via Porta Pescarina"/>
+  </way>
+  <way id="218797864" version="2" timestamp="2013-12-10T17:30:57Z" changeset="19381209" uid="1762843" user="GiovanniMiceli">
+    <nd ref="510782849"/>
+    <nd ref="722183471"/>
+    <nd ref="510782850"/>
+    <nd ref="559270334"/>
+    <nd ref="559270333"/>
+    <nd ref="510782860"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Via Riviera"/>
+  </way>
+  <way id="218797866" version="1" timestamp="2013-04-24T21:05:46Z" changeset="15853666" uid="654204" user="danny1984">
+    <nd ref="2280081175"/>
+    <nd ref="722288258"/>
+    <nd ref="722183685"/>
+    <nd ref="510782849"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Via Trieste"/>
+  </way>
+  <way id="218797871" version="3" timestamp="2013-12-10T17:30:55Z" changeset="19381209" uid="1762843" user="GiovanniMiceli">
+    <nd ref="559270331"/>
+    <nd ref="722183664"/>
+    <nd ref="559270329"/>
+    <nd ref="489699768"/>
+    <nd ref="489699773"/>
+    <nd ref="559270332"/>
+    <nd ref="489699777"/>
+    <nd ref="489699779"/>
+    <nd ref="2280081191"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Via I Maggio"/>
+  </way>
+  <way id="240323050" version="4" timestamp="2013-11-28T15:07:01Z" changeset="19161904" uid="1762843" user="GiovanniMiceli">
+    <nd ref="2280081175"/>
+    <nd ref="2539427513"/>
+    <nd ref="2280081168"/>
+    <nd ref="2280081179"/>
+    <nd ref="2280081201"/>
+    <nd ref="2280081147"/>
+    <nd ref="2539427514"/>
+    <nd ref="2539427515"/>
+    <nd ref="2280081204"/>
+    <nd ref="2280081165"/>
+    <nd ref="2280081153"/>
+    <nd ref="2539427516"/>
+    <nd ref="2539427517"/>
+    <nd ref="2280081191"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+  </way>
+  <way id="248835964" version="1" timestamp="2013-11-28T15:06:57Z" changeset="19161904" uid="1762843" user="GiovanniMiceli">
+    <nd ref="2280081191"/>
+    <nd ref="2280081159"/>
+    <nd ref="2280081197"/>
+    <nd ref="2280081172"/>
+    <nd ref="2280081149"/>
+    <nd ref="2539427506"/>
+    <nd ref="2539427509"/>
+    <nd ref="2539427511"/>
+    <nd ref="2280081175"/>
+    <tag k="highway" v="residential"/>
+    <tag k="junction" v="roundabout"/>
+  </way>
+  <relation id="2895931" version="14" timestamp="2013-12-02T20:10:09Z" changeset="19240161" uid="137" user="simone">
+    <member type="way" ref="240323047" role=""/>
+    <member type="way" ref="238789162" role=""/>
+    <member type="way" ref="218797871" role=""/>
+    <member type="way" ref="240323050" role=""/>
+    <member type="way" ref="248835964" role=""/>
+    <member type="way" ref="218797866" role=""/>
+    <member type="way" ref="218797864" role=""/>
+    <member type="way" ref="40439976" role=""/>
+    <member type="way" ref="240393627" role=""/>
+    <member type="way" ref="240393622" role=""/>
+    <member type="way" ref="241274674" role=""/>
+    <member type="way" ref="241544796" role=""/>
+    <member type="way" ref="50844877" role=""/>
+    <member type="way" ref="25590684" role="forward"/>
+    <member type="way" ref="240393628" role=""/>
+    <member type="way" ref="50844889" role="forward"/>
+    <member type="way" ref="50844882" role=""/>
+    <member type="way" ref="240393632" role=""/>
+    <member type="way" ref="240393630" role=""/>
+    <member type="way" ref="32637053" role=""/>
+    <member type="way" ref="249612353" role=""/>
+    <member type="way" ref="159395579" role=""/>
+    <member type="way" ref="241287418" role=""/>
+    <member type="way" ref="32637054" role=""/>
+    <member type="way" ref="44637093" role=""/>
+    <member type="way" ref="26704634" role=""/>
+    <member type="way" ref="159395583" role=""/>
+    <member type="way" ref="25883156" role=""/>
+    <member type="way" ref="39340190" role=""/>
+    <member type="way" ref="159397353" role="forward"/>
+    <member type="way" ref="194378392" role="forward"/>
+    <member type="way" ref="42250567" role="forward"/>
+    <member type="way" ref="241562202" role="forward"/>
+    <member type="way" ref="42250568" role="forward"/>
+    <member type="way" ref="171353604" role="forward"/>
+    <member type="way" ref="44393251" role="forward"/>
+    <member type="way" ref="240308824" role=""/>
+    <member type="way" ref="240358582" role=""/>
+    <member type="way" ref="240393633" role=""/>
+    <member type="way" ref="237140370" role=""/>
+    <member type="way" ref="237140372" role=""/>
+    <member type="node" ref="2488855374" role="stop"/>
+    <member type="node" ref="712394396" role="stop"/>
+    <member type="node" ref="1835832917" role="stop"/>
+    <member type="node" ref="1732332716" role="stop"/>
+    <member type="node" ref="1732332715" role="stop"/>
+    <member type="node" ref="679850822" role="stop"/>
+    <member type="node" ref="1737101283" role="stop"/>
+    <member type="node" ref="1737186338" role="stop"/>
+    <member type="node" ref="1835805345" role="stop"/>
+    <member type="node" ref="1835798073" role="stop"/>
+    <member type="node" ref="1835798069" role="stop"/>
+    <member type="node" ref="2280102630" role="stop"/>
+    <member type="node" ref="2491607757" role="stop"/>
+    <member type="node" ref="2280088980" role="stop"/>
+    <member type="node" ref="2280088985" role="stop"/>
+    <member type="node" ref="2280088978" role="stop"/>
+    <member type="node" ref="2280088977" role="stop"/>
+    <member type="node" ref="2280088976" role="stop"/>
+    <tag k="color" v="#995500"/>
+    <tag k="colour" v="#995500"/>
+    <tag k="from" v="Pavia Stazione FS"/>
+    <tag k="name" v="23 - PAVIA STAZIONE FS - SAN GENESIO"/>
+    <tag k="network" v="lineservizi"/>
+    <tag k="operator" v="Line S.p.A."/>
+    <tag k="ref" v="23"/>
+    <tag k="route" v="bus"/>
+    <tag k="to" v="San Genesio"/>
+    <tag k="type" v="route"/>
+  </relation>
+
+</osm>

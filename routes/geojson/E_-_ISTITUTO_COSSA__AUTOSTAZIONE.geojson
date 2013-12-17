@@ -1,0 +1,1449 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+    "type": "Feature",
+    "id": "way/14501969",
+    "properties": {
+        "timestamp": "2013-12-10T17:34:40Z",
+        "version": "6",
+        "changeset": "19381271",
+        "user": "GiovanniMiceli",
+        "uid": "1762843",
+        "highway": "secondary",
+        "name": "Lungoticino Visconti",
+        "source": "Comune di Pavia - CC-BY 3.0",
+        "id": "way/14501969"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1474659,
+                45.1821156
+            ],
+            [
+                9.1484685,
+                45.182085
+            ],
+            [
+                9.1493295,
+                45.1820527
+            ],
+            [
+                9.1501877,
+                45.1820058
+            ],
+            [
+                9.150914,
+                45.1819299
+            ],
+            [
+                9.1513767,
+                45.1818689
+            ],
+            [
+                9.151668,
+                45.1818305
+            ],
+            [
+                9.152478,
+                45.1817239
+            ],
+            [
+                9.1530451,
+                45.1816546
+            ],
+            [
+                9.1533376,
+                45.1816192
+            ],
+            [
+                9.1534917,
+                45.1815933
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/22732858",
+    "properties": {
+        "timestamp": "2013-10-02T11:48:36Z",
+        "version": "14",
+        "changeset": "18142188",
+        "user": "simone",
+        "uid": "137",
+        "highway": "tertiary",
+        "name": "Viale della Libertà",
+        "source": "Comune di Pavia - CC-BY 3.0",
+        "id": "way/22732858"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1467696,
+                45.1842192
+            ],
+            [
+                9.1467504,
+                45.1839215
+            ],
+            [
+                9.146707,
+                45.1830419
+            ],
+            [
+                9.1466896,
+                45.1826886
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/19829432",
+    "properties": {
+        "timestamp": "2013-10-02T17:01:17Z",
+        "version": "10",
+        "changeset": "18147466",
+        "user": "simone",
+        "uid": "137",
+        "highway": "unclassified",
+        "name": "Viale della Libertà",
+        "oneway": "yes",
+        "id": "way/19829432"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1474659,
+                45.1821156
+            ],
+            [
+                9.1472449,
+                45.182257
+            ],
+            [
+                9.147135,
+                45.1823366
+            ],
+            [
+                9.1470197,
+                45.1824483
+            ],
+            [
+                9.1469299,
+                45.1825275
+            ],
+            [
+                9.1468496,
+                45.1825835
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/240259044",
+    "properties": {
+        "timestamp": "2013-10-02T11:48:01Z",
+        "version": "1",
+        "changeset": "18142188",
+        "user": "simone",
+        "uid": "137",
+        "highway": "unclassified",
+        "name": "Viale della Libertà",
+        "oneway": "yes",
+        "id": "way/240259044"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1468496,
+                45.1825835
+            ],
+            [
+                9.1466896,
+                45.1826886
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/241454557",
+    "properties": {
+        "timestamp": "2013-10-10T09:29:48Z",
+        "version": "1",
+        "changeset": "18277766",
+        "user": "simone",
+        "uid": "137",
+        "highway": "secondary",
+        "name": "Viale Lungoticino Sforza",
+        "id": "way/241454557"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1654675,
+                45.1777608
+            ],
+            [
+                9.1654069,
+                45.1777556
+            ],
+            [
+                9.1653417,
+                45.1777569
+            ],
+            [
+                9.1652739,
+                45.1777721
+            ],
+            [
+                9.1651633,
+                45.177801
+            ],
+            [
+                9.1650088,
+                45.1778373
+            ],
+            [
+                9.1639617,
+                45.178164
+            ],
+            [
+                9.1629876,
+                45.1785077
+            ],
+            [
+                9.1628888,
+                45.1785391
+            ],
+            [
+                9.161876,
+                45.1788779
+            ],
+            [
+                9.1589919,
+                45.179796
+            ],
+            [
+                9.1582961,
+                45.18003
+            ],
+            [
+                9.1573156,
+                45.1803625
+            ],
+            [
+                9.1570124,
+                45.1804668
+            ],
+            [
+                9.1567813,
+                45.1805457
+            ],
+            [
+                9.156243,
+                45.180727
+            ],
+            [
+                9.1560805,
+                45.180779
+            ],
+            [
+                9.1553905,
+                45.1809947
+            ],
+            [
+                9.1546754,
+                45.1812377
+            ],
+            [
+                9.1544133,
+                45.1813274
+            ],
+            [
+                9.1538891,
+                45.1814838
+            ],
+            [
+                9.1536892,
+                45.1815385
+            ],
+            [
+                9.1534917,
+                45.1815933
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/14389441",
+    "properties": {
+        "timestamp": "2013-10-10T23:43:09Z",
+        "version": "19",
+        "changeset": "18289765",
+        "user": "simone",
+        "uid": "137",
+        "bicycle": "yes",
+        "highway": "secondary",
+        "name": "Viale Montegrappa",
+        "id": "way/14389441"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1739652,
+                45.1822701
+            ],
+            [
+                9.1743,
+                45.1822732
+            ],
+            [
+                9.1745747,
+                45.1822308
+            ],
+            [
+                9.1754071,
+                45.1820829
+            ],
+            [
+                9.1762183,
+                45.1819271
+            ],
+            [
+                9.1778062,
+                45.1816246
+            ],
+            [
+                9.1790583,
+                45.1813819
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/57738599",
+    "properties": {
+        "timestamp": "2013-12-10T16:50:10Z",
+        "version": "5",
+        "changeset": "19380630",
+        "user": "GiovanniMiceli",
+        "uid": "1762843",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "highway": "secondary",
+        "layer": "1",
+        "name": "Viale Partigiani",
+        "id": "way/57738599"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1680295,
+                45.1814043
+            ],
+            [
+                9.1685358,
+                45.1814831
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/14501030",
+    "properties": {
+        "timestamp": "2013-12-09T17:36:07Z",
+        "version": "22",
+        "changeset": "19362824",
+        "user": "simone",
+        "uid": "137",
+        "highway": "secondary",
+        "name": "Viale Resistenza",
+        "id": "way/14501030"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1665172,
+                45.1811163
+            ],
+            [
+                9.1665381,
+                45.1810676
+            ],
+            [
+                9.1664152,
+                45.1805028
+            ],
+            [
+                9.1662962,
+                45.1800378
+            ],
+            [
+                9.1662396,
+                45.1798172
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/44637105",
+    "properties": {
+        "timestamp": "2013-12-10T16:50:10Z",
+        "version": "4",
+        "changeset": "19380630",
+        "user": "GiovanniMiceli",
+        "uid": "1762843",
+        "bicycle": "yes",
+        "highway": "secondary",
+        "name": "Viale Partigiani",
+        "id": "way/44637105"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1672833,
+                45.181304
+            ],
+            [
+                9.1674378,
+                45.1813161
+            ],
+            [
+                9.1676266,
+                45.1813403
+            ],
+            [
+                9.1679099,
+                45.1813826
+            ],
+            [
+                9.1680295,
+                45.1814043
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/157945481",
+    "properties": {
+        "timestamp": "2013-12-10T16:50:09Z",
+        "version": "4",
+        "changeset": "19380630",
+        "user": "GiovanniMiceli",
+        "uid": "1762843",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "highway": "secondary",
+        "layer": "1",
+        "name": "Viale Partigiani",
+        "id": "way/157945481"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1670001,
+                45.1812858
+            ],
+            [
+                9.1672833,
+                45.181304
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/157945486",
+    "properties": {
+        "timestamp": "2013-12-10T16:50:10Z",
+        "version": "5",
+        "changeset": "19380630",
+        "user": "GiovanniMiceli",
+        "uid": "1762843",
+        "bicycle": "yes",
+        "highway": "secondary",
+        "name": "Viale Partigiani",
+        "id": "way/157945486"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1667307,
+                45.1812682
+            ],
+            [
+                9.1669464,
+                45.1812823
+            ],
+            [
+                9.1670001,
+                45.1812858
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/231222630",
+    "properties": {
+        "timestamp": "2013-10-03T09:21:55Z",
+        "version": "3",
+        "changeset": "18157670",
+        "user": "GiovanniMiceli",
+        "uid": "1762843",
+        "bicycle": "yes",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "name": "Viale Partigiani",
+        "id": "way/231222630"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1664006,
+                45.1813885
+            ],
+            [
+                9.1663326,
+                45.1813369
+            ],
+            [
+                9.1663027,
+                45.1812682
+            ],
+            [
+                9.166307,
+                45.1812382
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/240308164",
+    "properties": {
+        "timestamp": "2013-12-09T17:36:07Z",
+        "version": "2",
+        "changeset": "19362824",
+        "user": "simone",
+        "uid": "137",
+        "bicycle": "yes",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "name": "Viale Partigiani",
+        "id": "way/240308164"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1667307,
+                45.1812682
+            ],
+            [
+                9.1667056,
+                45.1813325
+            ],
+            [
+                9.1666398,
+                45.1813741
+            ],
+            [
+                9.1665111,
+                45.1814041
+            ],
+            [
+                9.1664578,
+                45.1814034
+            ],
+            [
+                9.1664006,
+                45.1813885
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/240353350",
+    "properties": {
+        "timestamp": "2013-10-03T18:01:40Z",
+        "version": "2",
+        "changeset": "18166219",
+        "user": "GiovanniMiceli",
+        "uid": "1762843",
+        "bicycle": "yes",
+        "highway": "secondary",
+        "junction": "roundabout",
+        "name": "Viale Partigiani",
+        "id": "way/240353350"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.166307,
+                45.1812382
+            ],
+            [
+                9.1663649,
+                45.1811624
+            ],
+            [
+                9.1664358,
+                45.18113
+            ],
+            [
+                9.1665172,
+                45.1811163
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/251035604",
+    "properties": {
+        "timestamp": "2013-12-09T17:36:00Z",
+        "version": "1",
+        "changeset": "19362824",
+        "user": "simone",
+        "uid": "137",
+        "highway": "secondary",
+        "name": "Viale Resistenza",
+        "id": "way/251035604"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1662396,
+                45.1798172
+            ],
+            [
+                9.1658706,
+                45.1783511
+            ],
+            [
+                9.1658425,
+                45.1782124
+            ],
+            [
+                9.1658253,
+                45.1781574
+            ],
+            [
+                9.1658055,
+                45.1781118
+            ],
+            [
+                9.1657905,
+                45.1780482
+            ],
+            [
+                9.1657535,
+                45.1779591
+            ],
+            [
+                9.1657146,
+                45.1778926
+            ],
+            [
+                9.1656987,
+                45.1778746
+            ],
+            [
+                9.1656679,
+                45.1778397
+            ],
+            [
+                9.1656069,
+                45.177801
+            ],
+            [
+                9.1655401,
+                45.1777763
+            ],
+            [
+                9.1654675,
+                45.1777608
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/14500598",
+    "properties": {
+        "timestamp": "2013-03-11T14:12:24Z",
+        "version": "16",
+        "changeset": "15327689",
+        "user": "Hons084",
+        "uid": "976599",
+        "bicycle": "yes",
+        "highway": "secondary",
+        "name": "Viale Partigiani",
+        "id": "way/14500598"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1739652,
+                45.1822701
+            ],
+            [
+                9.173795,
+                45.1822427
+            ],
+            [
+                9.1709151,
+                45.1817788
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/159405602",
+    "properties": {
+        "timestamp": "2013-03-11T14:12:25Z",
+        "version": "2",
+        "changeset": "15327689",
+        "user": "Hons084",
+        "uid": "976599",
+        "bicycle": "yes",
+        "highway": "secondary",
+        "name": "Viale Partigiani",
+        "id": "way/159405602"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1685358,
+                45.1814831
+            ],
+            [
+                9.1685841,
+                45.1814914
+            ],
+            [
+                9.1695394,
+                45.1816169
+            ],
+            [
+                9.1702031,
+                45.181695
+            ],
+            [
+                9.1709151,
+                45.1817788
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/19830748",
+    "properties": {
+        "timestamp": "2013-10-10T23:57:07Z",
+        "version": "11",
+        "changeset": "18289856",
+        "user": "simone",
+        "uid": "137",
+        "highway": "tertiary",
+        "junction": "roundabout",
+        "name": "Piazza della Minerva",
+        "id": "way/19830748"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.147197,
+                45.1870146
+            ],
+            [
+                9.1472404,
+                45.1870235
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/22736821",
+    "properties": {
+        "timestamp": "2013-10-02T11:48:36Z",
+        "version": "8",
+        "changeset": "18142188",
+        "user": "simone",
+        "uid": "137",
+        "highway": "tertiary",
+        "name": "Viale della Libertà",
+        "oneway": "yes",
+        "source": "Comune di Pavia - CC-BY 3.0",
+        "id": "way/22736821"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1468672,
+                45.1857996
+            ],
+            [
+                9.147129,
+                45.1867515
+            ],
+            [
+                9.1471704,
+                45.1869118
+            ],
+            [
+                9.147197,
+                45.1870146
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/40109811",
+    "properties": {
+        "timestamp": "2013-12-10T17:34:41Z",
+        "version": "7",
+        "changeset": "19381271",
+        "user": "GiovanniMiceli",
+        "uid": "1762843",
+        "highway": "unclassified",
+        "name": "Viale Vittorio Emanuele II",
+        "source": "Comune di Pavia - CC-BY 3.0",
+        "id": "way/40109811"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.14556,
+                45.1882176
+            ],
+            [
+                9.1461915,
+                45.1876889
+            ],
+            [
+                9.146619,
+                45.1873672
+            ],
+            [
+                9.1466411,
+                45.1873506
+            ],
+            [
+                9.1467621,
+                45.1872971
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/42250567",
+    "properties": {
+        "timestamp": "2013-10-10T22:55:19Z",
+        "version": "3",
+        "changeset": "18289476",
+        "user": "simone",
+        "uid": "137",
+        "highway": "residential",
+        "name": "Piazzale della Stazione",
+        "id": "way/42250567"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.14556,
+                45.1882176
+            ],
+            [
+                9.1456218,
+                45.1882807
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/44393371",
+    "properties": {
+        "timestamp": "2013-10-11T00:04:02Z",
+        "version": "7",
+        "changeset": "18289897",
+        "user": "simone",
+        "uid": "137",
+        "highway": "residential",
+        "name": "Piazzale della Stazione",
+        "oneway": "yes",
+        "id": "way/44393371"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1460159,
+                45.1886828
+            ],
+            [
+                9.1454797,
+                45.1889863
+            ],
+            [
+                9.1454493,
+                45.1889674
+            ],
+            [
+                9.1451004,
+                45.1887405
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/160829789",
+    "properties": {
+        "timestamp": "2013-10-02T11:48:35Z",
+        "version": "2",
+        "changeset": "18142188",
+        "user": "simone",
+        "uid": "137",
+        "highway": "tertiary",
+        "name": "Viale della Libertà",
+        "source": "Comune di Pavia - CC-BY 3.0",
+        "id": "way/160829789"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1468672,
+                45.1857996
+            ],
+            [
+                9.1468492,
+                45.1854564
+            ],
+            [
+                9.1467696,
+                45.1842192
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/240308825",
+    "properties": {
+        "timestamp": "2013-10-03T10:09:21Z",
+        "version": "2",
+        "changeset": "18158430",
+        "user": "GiovanniMiceli",
+        "uid": "1762843",
+        "highway": "tertiary",
+        "junction": "roundabout",
+        "name": "Piazza della Minerva",
+        "source": "Comune di Pavia - CC-BY 3.0",
+        "id": "way/240308825"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1473294,
+                45.1871487
+            ],
+            [
+                9.1472786,
+                45.1872527
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/240357603",
+    "properties": {
+        "timestamp": "2013-10-03T09:58:15Z",
+        "version": "1",
+        "changeset": "18158272",
+        "user": "GiovanniMiceli",
+        "uid": "1762843",
+        "highway": "tertiary",
+        "junction": "roundabout",
+        "name": "Piazza della Minerva",
+        "source": "Comune di Pavia - CC-BY 3.0",
+        "id": "way/240357603"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1472404,
+                45.1870235
+            ],
+            [
+                9.1473294,
+                45.1871487
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/240358583",
+    "properties": {
+        "timestamp": "2013-10-04T14:23:29Z",
+        "version": "2",
+        "changeset": "18179409",
+        "user": "GiovanniMiceli",
+        "uid": "1762843",
+        "highway": "tertiary",
+        "junction": "roundabout",
+        "name": "Piazza della Minerva",
+        "source": "Comune di Pavia - CC-BY 3.0",
+        "id": "way/240358583"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1472786,
+                45.1872527
+            ],
+            [
+                9.1472048,
+                45.1873106
+            ],
+            [
+                9.1471202,
+                45.187354
+            ],
+            [
+                9.1469761,
+                45.1873674
+            ],
+            [
+                9.1468318,
+                45.1873259
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/240512170",
+    "properties": {
+        "timestamp": "2013-10-04T14:23:22Z",
+        "version": "1",
+        "changeset": "18179409",
+        "user": "GiovanniMiceli",
+        "uid": "1762843",
+        "highway": "tertiary",
+        "junction": "roundabout",
+        "name": "Piazza della Minerva",
+        "source": "Comune di Pavia - CC-BY 3.0",
+        "id": "way/240512170"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1468318,
+                45.1873259
+            ],
+            [
+                9.1467621,
+                45.1872971
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/241562202",
+    "properties": {
+        "timestamp": "2013-10-10T22:55:08Z",
+        "version": "1",
+        "changeset": "18289476",
+        "user": "simone",
+        "uid": "137",
+        "highway": "residential",
+        "name": "Piazzale della Stazione",
+        "id": "way/241562202"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1456218,
+                45.1882807
+            ],
+            [
+                9.1460159,
+                45.1886828
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/241562203",
+    "properties": {
+        "timestamp": "2013-10-10T22:55:08Z",
+        "version": "1",
+        "changeset": "18289476",
+        "user": "simone",
+        "uid": "137",
+        "access": "no",
+        "foot": "yes",
+        "highway": "service",
+        "oneway": "yes",
+        "psv": "designated",
+        "vehicle": "no",
+        "id": "way/241562203"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1451004,
+                45.1887405
+            ],
+            [
+                9.1454744,
+                45.1884112
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "way/241566531",
+    "properties": {
+        "timestamp": "2013-10-10T23:48:50Z",
+        "version": "2",
+        "changeset": "18289797",
+        "user": "simone",
+        "uid": "137",
+        "bicycle": "yes",
+        "highway": "secondary",
+        "name": "Viale Montegrappa",
+        "id": "way/241566531"
+    },
+    "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [
+                9.1790583,
+                45.1813819
+            ],
+            [
+                9.1795228,
+                45.1812919
+            ],
+            [
+                9.1796491,
+                45.181268
+            ]
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/1077443687",
+    "properties": {
+        "timestamp": "2011-01-01T20:57:12Z",
+        "version": "1",
+        "changeset": "6832324",
+        "user": "simone",
+        "uid": "137",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "id": "node/1077443687"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1466896,
+            45.1826886
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/142567325",
+    "properties": {
+        "timestamp": "2013-01-12T10:15:59Z",
+        "version": "6",
+        "changeset": "14619559",
+        "user": "danny1984",
+        "uid": "654204",
+        "highway": "traffic_signals",
+        "id": "node/142567325"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1534917,
+            45.1815933
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/207112590",
+    "properties": {
+        "timestamp": "2013-10-09T13:08:29Z",
+        "version": "5",
+        "changeset": "18264406",
+        "user": "GiovanniMiceli",
+        "uid": "1762843",
+        "asset_ref": "pv0362",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "LUNGOTICINO VISCONTI Rezia",
+        "network": "lineservizi",
+        "operator": "Line S.p.A.",
+        "public_transport": "stop_position",
+        "id": "node/207112590"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1518259,
+            45.181878
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/2491771488",
+    "properties": {
+        "timestamp": "2013-10-11T00:02:43Z",
+        "version": "1",
+        "changeset": "18289884",
+        "user": "simone",
+        "uid": "137",
+        "asset_ref": "pv0561",
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "RESISTENZA Ist. Bordoni",
+        "network": "lineservizi",
+        "operator": "Line S.p.A.",
+        "public_transport": "stop_position",
+        "shelter": "no",
+        "id": "node/2491771488"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1661253,
+            45.1798284
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/142550906",
+    "properties": {
+        "timestamp": "2012-04-14T08:56:15Z",
+        "version": "6",
+        "changeset": "11296153",
+        "user": "danny1984",
+        "uid": "654204",
+        "highway": "traffic_signals",
+        "id": "node/142550906"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1709151,
+            45.1817788
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/366981422",
+    "properties": {
+        "timestamp": "2013-01-12T10:22:51Z",
+        "version": "2",
+        "changeset": "14619559",
+        "user": "danny1984",
+        "uid": "654204",
+        "highway": "crossing",
+        "id": "node/366981422"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1685358,
+            45.1814831
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/648971951",
+    "properties": {
+        "timestamp": "2010-02-21T13:07:01Z",
+        "version": "1",
+        "changeset": "3933072",
+        "user": "simone",
+        "uid": "137",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "id": "node/648971951"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.173795,
+            45.1822427
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/712337980",
+    "properties": {
+        "timestamp": "2013-10-09T23:01:40Z",
+        "version": "5",
+        "changeset": "18273398",
+        "user": "GiovanniMiceli",
+        "uid": "1762843",
+        "asset_ref": "pv0205",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "PARTIGIANI Dossi",
+        "network": "lineservizi",
+        "operator": "Line S.p.A.",
+        "public_transport": "stop_position",
+        "route_ref": "3",
+        "shelter": "yes",
+        "source": "survey",
+        "url": "http://lineservizi.it",
+        "id": "node/712337980"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1736003,
+            45.1822726
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/571482573",
+    "properties": {
+        "timestamp": "2012-04-14T08:56:16Z",
+        "version": "2",
+        "changeset": "11296153",
+        "user": "danny1984",
+        "uid": "654204",
+        "highway": "traffic_signals",
+        "id": "node/571482573"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1467696,
+            45.1842192
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/1730353005",
+    "properties": {
+        "timestamp": "2013-10-10T22:55:20Z",
+        "version": "5",
+        "changeset": "18289476",
+        "user": "simone",
+        "uid": "137",
+        "asset_ref": "pv0523",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "STAZIONE 4",
+        "network": "lineservizi",
+        "operator": "Line S.p.A.",
+        "public_transport": "stop_position",
+        "id": "node/1730353005"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1455056,
+            45.1884258
+        ]
+    }
+},
+{
+    "type": "Feature",
+    "id": "node/2491763976",
+    "properties": {
+        "timestamp": "2013-10-10T23:48:30Z",
+        "version": "1",
+        "changeset": "18289797",
+        "user": "simone",
+        "uid": "137",
+        "asset_ref": "pv0600",
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "MONTEGRAPPA Ist. Cossa",
+        "network": "lineservizi",
+        "operator": "Line S.p.A.",
+        "public_transport": "stop_position",
+        "shelter": "no",
+        "id": "node/2491763976"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1796632,
+            45.1813378
+        ]
+    }
+}
+]
+}
